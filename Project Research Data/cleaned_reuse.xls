@@ -1,0 +1,701 @@
+date_added,item_type,campus,condition,category,quantity,total_cost,total_weight_kg,total_co2_kg,academic_year,recording_inconsistency,unit_cost,unit_weight_kg,unit_co2_kg
+2021-06-16,Desk,Greenwich,Excellent,Office,2,2.0,60.0,104.0,2020-21,False,1.0,30.0,52.0
+2021-06-16,Pedestal,Greenwich,Good,Storage,1,50.0,14.0,26.0,2020-21,False,50.0,14.0,26.0
+2021-06-16,Bookcase ,Greenwich,Good,Storage,1,134.0,12.0,69.55,2020-21,False,134.0,12.0,69.55
+2021-06-16,Desk Divider,Greenwich,Good,Office,1,50.0,20.0,24.0,2020-21,False,50.0,20.0,24.0
+2021-06-16,Desk Divider,Greenwich,Good,Office,2,20.0,10.0,48.0,2020-21,False,10.0,5.0,24.0
+2021-06-16,Noticeboard,Greenwich,Excellent,Office,1,100.0,1.0,48.0,2020-21,False,100.0,1.0,48.0
+2021-06-16,Pedestal,Greenwich,Good,Storage,1,50.0,14.0,26.0,2020-21,False,50.0,14.0,26.0
+2021-06-16,Bookcase,Greenwich,Excellent,Storage,1,134.0,21.0,69.55,2020-21,False,134.0,21.0,69.55
+2021-06-16,Bookcase ,Greenwich,Good,Storage,1,134.0,21.0,69.55,2020-21,False,134.0,21.0,69.55
+2024-01-15,Desk,Greenwich,Excellent,Office,2,252.0,50.0,77.4,2023-24,False,126.0,25.0,38.7
+2021-06-16,Filing Cabinet,Greenwich,Good,Storage,1,100.0,40.0,48.0,2020-21,True,100.0,40.0,48.0
+2021-06-16,Pedestal,Greenwich,Good,Storage,1,107.0,12.0,55.64,2020-21,False,107.0,12.0,55.64
+2021-06-16,Bookcase,Greenwich,Excellent,Storage,1,134.0,12.0,69.55,2020-21,False,134.0,12.0,69.55
+2022-10-11,Operator Chair,Greenwich,Good,Seating,1,107.0,12.0,55.64,2022-23,False,107.0,12.0,55.64
+2021-06-16,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2020-21,False,107.0,12.0,55.64
+2021-06-16,Desk,Greenwich,Excellent,Office,1,100.0,30.0,52.0,2020-21,False,100.0,30.0,52.0
+2021-06-16,Whiteboard,Greenwich,Good,Office,3,204.0,18.0,97.92,2020-21,False,68.0,6.0,32.64
+2021-06-16,Operator Chair,Avery Hill,Excellent,Seating,6,642.0,72.0,333.84,2020-21,False,107.0,12.0,55.63999999999999
+2021-06-16,Whiteboard,Avery Hill,Good,Office,1,68.0,6.0,32.64,2020-21,False,68.0,6.0,32.64
+2021-06-16,Chair,Greenwich,Excellent,Seating,2,100.0,24.0,58.0,2020-21,False,50.0,12.0,29.0
+2021-06-16,Chair,Greenwich,Excellent,Seating,2,178.0,16.0,54.6,2020-21,False,89.0,8.0,27.3
+2021-06-16,Chair,Greenwich,Excellent,Seating,2,60.0,24.0,31.2,2020-21,False,30.0,12.0,15.6
+2021-06-16,Chair,Greenwich,Excellent,Seating,1,30.0,12.0,15.6,2020-21,True,30.0,12.0,15.6
+2021-06-16,Chair,Greenwich,Excellent,Seating,4,120.0,48.0,62.4,2020-21,False,30.0,12.0,15.6
+2021-09-30,Operator Chair,Avery Hill,Excellent,Seating,29,3103.0,348.0,1613.56,2021-22,False,107.0,12.0,55.64
+2021-11-25,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2021-22,False,107.0,12.0,55.64
+2021-11-25,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2021-22,False,107.0,12.0,55.64
+2021-11-25,Pedestal,Greenwich,Good,Storage,1,50.0,14.0,26.0,2021-22,False,50.0,14.0,26.0
+2021-12-07,Pedestal,Greenwich,Excellent,Storage,1,50.0,14.0,26.0,2021-22,False,50.0,14.0,26.0
+2021-12-07,Desk,Greenwich,Excellent,Office,1,100.0,30.0,52.0,2021-22,False,100.0,30.0,52.0
+2021-12-07,Desk,Greenwich,Excellent,Office,1,100.0,30.0,52.0,2021-22,False,100.0,30.0,52.0
+2022-01-12,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2021-22,False,107.0,12.0,55.64
+2022-01-12,Coffee Table,Greenwich,Good,Table,1,70.0,10.0,36.4,2021-22,False,70.0,10.0,36.4
+2022-01-12,Coffee Table,Greenwich,Good,Table,1,70.0,10.0,36.4,2021-22,False,70.0,10.0,36.4
+2022-01-31,Operator Chair,Greenwich,Good,Seating,10,1070.0,120.0,667.68,2021-22,False,107.0,12.0,66.768
+2022-02-02,Operator Chair,Greenwich,Excellent,Seating,3,321.0,36.0,166.92,2021-22,False,107.0,12.0,55.63999999999999
+2022-02-02,Tambour Unit,Avery Hill,Excellent,Storage,1,100.0,70.0,52.0,2021-22,True,100.0,70.0,52.0
+2022-02-02,Tambour Unit,Avery Hill,Excellent,Storage,1,100.0,70.0,52.0,2021-22,True,100.0,70.0,52.0
+2022-02-04,Operator Chair,Greenwich,Good,Seating,1,107.0,12.0,55.64,2021-22,False,107.0,12.0,55.64
+2022-02-04,Operator Chair,Greenwich,Good,Seating,1,70.0,7.0,36.4,2021-22,False,70.0,7.0,36.4
+2022-02-04,Coffee table,Greenwich,Excellent,Table,1,70.0,10.0,36.4,2021-22,False,70.0,10.0,36.4
+2022-02-04,Desk,Greenwich,Excellent,Office,1,100.0,30.0,52.0,2021-22,False,100.0,30.0,52.0
+2021-06-16,Desk,Greenwich,Excellent,Office,1,150.0,45.0,78.0,2020-21,False,150.0,45.0,78.0
+2021-06-16,Tambour Unit,Greenwich,Excellent,Storage,1,100.0,70.0,52.0,2020-21,True,100.0,70.0,52.0
+2021-06-16,Desk,Greenwich,Excellent,Office,1,100.0,30.0,52.0,2020-21,False,100.0,30.0,52.0
+2021-06-16,Desk,Greenwich,Excellent,Office,2,200.0,60.0,104.0,2020-21,False,100.0,30.0,52.0
+2022-02-04,Operator Chair,Greenwich,Good,Seating,1,98.0,17.0,30.1,2021-22,False,98.0,17.0,30.1
+2022-02-04,Operator Chair,Greenwich,Excellent,Seating,1,98.0,17.0,30.1,2021-22,False,98.0,17.0,30.1
+2022-02-04,Chair,Greenwich,Excellent,Seating,4,80.0,28.0,41.6,2021-22,False,20.0,7.0,10.4
+2022-02-10,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2021-22,False,107.0,12.0,55.64
+2022-02-12,Armchair,Greenwich,Good,Seating,5,250.0,45.0,130.0,2021-22,False,50.0,9.0,26.0
+2022-02-15,Operator Chair,Greenwich,Good,Seating,1,107.0,12.0,55.64,2021-22,False,107.0,12.0,55.64
+2022-02-15,Sofa,Greenwich,Excellent,Seating,2,1200.0,160.0,600.0,2021-22,False,600.0,80.0,300.0
+2022-03-11,Operator Chair,Greenwich,Good,Seating,2,214.0,24.0,111.28,2021-22,False,107.0,12.0,55.64
+2022-03-18,Operator Chair,Greenwich,Excellent,Seating,4,428.0,48.0,222.56,2021-22,False,107.0,12.0,55.64
+2024-01-24,Pedestal,Greenwich,Good,Storage,1,121.0,27.0,37.3,2023-24,False,121.0,27.0,37.3
+2022-05-09,Cupboard,Greenwich,Good,Storage,1,343.0,20.0,178.36,2021-22,False,343.0,20.0,178.36
+2022-05-10,Operator Chair,Greenwich,Excellent,Seating,3,321.0,36.0,166.92,2021-22,False,107.0,12.0,55.63999999999999
+2022-05-16,Pedestal,Greenwich,Excellent,Storage,2,100.0,28.0,52.0,2021-22,False,50.0,14.0,26.0
+2022-02-23,Operator Chair,Greenwich,Good,Seating,2,214.0,24.0,111.28,2021-22,False,107.0,12.0,55.64
+2022-05-16,Cupboard,Greenwich,Excellent,Storage,1,100.0,70.0,52.0,2021-22,False,100.0,70.0,52.0
+2022-05-16,Cupboard,Greenwich,Excellent,Storage,1,100.0,40.0,48.0,2021-22,False,100.0,40.0,48.0
+2023-03-20,Desk,Greenwich,Excellent,Office,1,100.0,30.0,52.0,2022-23,False,100.0,30.0,52.0
+2022-05-23,Pigeon Hole Unit,Greenwich,Excellent,Storage,1,100.0,21.0,52.0,2021-22,False,100.0,21.0,52.0
+2022-06-12,Operator Chair,Greenwich,Good,Seating,3,321.0,36.0,166.92,2021-22,False,107.0,12.0,55.63999999999999
+2022-06-13,Chair,Greenwich,Good,Seating,2,20.0,7.0,10.4,2021-22,True,10.0,3.5,5.2
+2022-08-04,Operator Chair,Greenwich,Good,Seating,2,214.0,24.0,111.28,2021-22,False,107.0,12.0,55.64
+2022-08-08,Pedestal,Greenwich,Good,Storage,2,100.0,28.0,52.0,2021-22,False,50.0,14.0,26.0
+2022-08-08,Pedestal,Greenwich,Good,Storage,2,100.0,28.0,52.0,2021-22,False,50.0,14.0,26.0
+2022-08-08,Pedestal,Greenwich,Good,Storage,2,100.0,14.0,26.0,2021-22,False,50.0,7.0,13.0
+2022-02-04,Bookcase,Greenwich,Good,Storage,1,110.0,12.0,114.4,2021-22,False,110.0,12.0,114.4
+2022-09-06,Desk,Greenwich,Good,Office,1,100.0,30.0,52.0,2022-23,False,100.0,30.0,52.0
+2022-09-06,Desk,Greenwich,Good,Office,1,100.0,30.0,52.0,2022-23,False,100.0,30.0,52.0
+2022-09-06,Drawers,Greenwich,Good,Storage,1,100.0,30.0,48.0,2022-23,False,100.0,30.0,48.0
+2022-09-12,Operator Chair,Greenwich,Good,Seating,2,214.0,24.0,112.8,2022-23,False,107.0,12.0,56.4
+2022-09-12,Bookcase,Greenwich,Good,Storage,1,134.0,21.0,69.55,2022-23,False,134.0,21.0,69.55
+2022-11-10,Desk,Greenwich,Good,Office,1,136.5,40.0,70.98,2022-23,False,136.5,40.0,70.98
+2022-11-18,Armchair,Greenwich,Excellent,Seating,4,200.0,28.0,104.0,2022-23,False,50.0,7.0,26.0
+2022-11-18,Coffee Table,Greenwich,Excellent,Table,8,240.0,10.0,83.2,2022-23,False,30.0,1.25,10.4
+2022-11-18,Cushions,Greenwich,Excellent,Seating,6,30.0,3.0,15.6,2022-23,False,5.0,0.5,2.6
+2022-11-18,Sofa,Greenwich,Excellent,Seating,3,1818.0,126.0,945.36,2022-23,False,606.0,42.0,315.12
+2022-12-05,Coffee Table,Greenwich,Good,Table,2,140.0,20.0,36.4,2022-23,False,70.0,10.0,18.2
+2022-12-05,Coffee Table,Greenwich,Good,Table,2,140.0,20.0,36.4,2022-23,False,70.0,10.0,18.2
+2023-02-02,Tambour Unit,Greenwich,Excellent,Storage,2,500.0,144.0,254.0,2022-23,False,250.0,72.0,127.0
+2023-02-02,Tambour Unit,Medway,Excellent,Storage,3,745.0,221.0,381.0,2022-23,False,248.33333333333334,73.66666666666667,127.0
+2022-02-04,Pedestal,Greenwich,Good,Storage,1,50.0,14.0,26.0,2021-22,False,50.0,14.0,26.0
+2023-04-18,Operator Chair,Greenwich,Good,Seating,3,321.0,36.0,166.92,2022-23,False,107.0,12.0,55.63999999999999
+2023-02-28,Desk,Avery Hill,Excellent,Office,1,100.0,30.0,52.0,2022-23,False,100.0,30.0,52.0
+2023-03-17,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,57.4,2022-23,False,107.0,12.0,57.4
+2023-03-20,Desk,Greenwich,Excellent,Office,1,575.0,20.0,276.0,2022-23,False,575.0,20.0,276.0
+2023-03-20,Desk,Greenwich,Excellent,Office,2,598.0,60.0,183.8,2022-23,False,299.0,30.0,91.9
+2023-04-18,Operator Chair,Greenwich,Good,Seating,1,107.0,12.0,55.64,2022-23,False,107.0,12.0,55.64
+2023-04-18,Coffee Table,Greenwich,Good,Table,1,70.0,25.0,36.4,2022-23,False,70.0,25.0,36.4
+2023-04-04,Table,Greenwich,Good,Table,1,40.0,10.0,20.8,2022-23,False,40.0,10.0,20.8
+2023-04-04,Pedestal,Greenwich,Good,Storage,1,50.0,14.0,26.0,2022-23,False,50.0,14.0,26.0
+2023-04-04,Pedestal,Greenwich,Good,Storage,1,50.0,14.0,26.0,2022-23,False,50.0,14.0,26.0
+2023-04-04,Chair,Greenwich,Excellent,Seating,2,100.0,24.0,58.0,2022-23,False,50.0,12.0,29.0
+2023-04-04,Chair,Greenwich,Good,Seating,1,236.79,15.0,72.93,2022-23,False,236.79,15.0,72.93
+2023-04-04,Table,Greenwich,Good,Table,1,40.0,10.0,20.8,2022-23,False,40.0,10.0,20.8
+2023-04-04,Chair,Greenwich,Excellent,Seating,1,20.0,7.0,10.4,2022-23,False,20.0,7.0,10.4
+2023-04-04,Bookcase,Greenwich,Good,Storage,1,134.0,21.0,69.55,2022-23,False,134.0,21.0,69.55
+2023-04-04,Cabinet,Greenwich,Good,Storage,2,57.4,6.0,63.0,2022-23,False,28.7,3.0,31.5
+2023-04-09,Pedestal,Greenwich,Good,Storage,1,100.0,20.0,30.8,2022-23,False,100.0,20.0,30.8
+2023-06-29,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2022-23,True,121.0,27.0,37.3
+2023-04-18,Chair,Greenwich,Excellent,Seating,2,60.0,24.0,31.2,2022-23,False,30.0,12.0,15.6
+2023-04-18,Chair,Greenwich,Excellent,Seating,2,166.0,14.4,51.0,2022-23,False,83.0,7.2,25.5
+2023-04-21,Tub Chair,Greenwich,Good,Seating,2,200.0,160.0,200.0,2022-23,False,100.0,80.0,100.0
+2023-04-21,Tub Chair,Greenwich,Good,Seating,2,200.0,160.0,200.0,2022-23,False,100.0,80.0,100.0
+2023-05-03,Chair,Greenwich,Good,Seating,3,90.0,36.0,46.8,2022-23,False,30.0,12.0,15.6
+2023-05-03,Table,Greenwich,Excellent,Table,1,90.0,25.0,46.8,2022-23,False,90.0,25.0,46.8
+2023-06-29,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2022-23,True,121.0,27.0,37.3
+2023-06-29,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2022-23,True,121.0,27.0,37.3
+2023-08-01,Desk,Greenwich,Excellent,Office,1,161.0,30.0,49.5,2022-23,False,161.0,30.0,49.5
+2023-07-03,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2022-23,False,107.0,12.0,55.64
+2023-07-03,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2022-23,False,107.0,12.0,55.64
+2023-07-03,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2022-23,False,107.0,12.0,55.64
+2023-07-03,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2022-23,False,107.0,12.0,55.64
+2023-07-03,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2022-23,False,107.0,12.0,55.64
+2023-07-03,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2022-23,False,107.0,12.0,55.64
+2023-08-01,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2022-23,True,121.0,27.0,37.3
+2023-08-01,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2022-23,True,121.0,27.0,37.3
+2023-11-28,Curved desk,Greenwich,Good,Office,1,213.0,22.0,66.5,2023-24,False,213.0,22.0,66.5
+2023-08-02,Sofa,Medway,Excellent,Seating,3,906.0,63.0,472.5,2022-23,False,302.0,21.0,157.5
+2023-08-02,Sofa,Medway,Excellent,Seating,2,604.0,42.0,315.0,2022-23,False,302.0,21.0,157.5
+2023-08-30,Coat Rack,Greenwich,Excellent,Office,1,30.0,10.0,14.4,2022-23,False,30.0,10.0,14.4
+2023-08-31,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,36.1,2022-23,False,117.0,19.0,36.1
+2023-08-31,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,36.1,2022-23,False,117.0,19.0,36.1
+2023-08-31,Operator Chair,Greenwich,Excellent,Seating,2,234.0,36.0,72.2,2022-23,False,117.0,18.0,36.1
+2023-09-05,Chair,Greenwich,Fair,Seating,1,98.0,15.0,16.9,2023-24,False,98.0,15.0,16.9
+2023-09-14,Chair,Greenwich,Excellent,Seating,15,1005.0,105.0,515.1,2023-24,False,67.0,7.0,34.34
+2023-09-14,Chair,Greenwich,Good,Seating,19,2033.0,228.0,1057.16,2023-24,False,107.0,12.0,55.64000000000001
+2023-09-14,Armchair,Greenwich,Good,Seating,1,237.0,15.0,72.9,2023-24,False,237.0,15.0,72.9
+2023-09-14,Desk,Avery Hill,Excellent,Office,1,126.0,25.0,38.7,2023-24,False,126.0,25.0,38.7
+2023-09-14,Coffee Table,Avery Hill,Excellent,Table,1,70.0,10.0,17.7,2023-24,False,70.0,10.0,17.7
+2023-09-14,Chair,Avery Hill,Excellent,Seating,4,280.0,40.0,70.8,2023-24,False,70.0,10.0,17.7
+2023-09-14,Coffee Table,Avery Hill,Excellent,Table,1,70.0,10.0,17.7,2023-24,False,70.0,10.0,17.7
+2023-09-14,Sofa,Avery Hill,Good,Seating,1,300.0,40.0,150.0,2023-24,False,300.0,40.0,150.0
+2023-09-26,Chair,Avery Hill,Excellent,Seating,8,536.0,56.0,278.72,2023-24,False,67.0,7.0,34.84
+2023-09-26,Chair,Avery Hill,Excellent,Seating,4,200.0,48.0,116.0,2023-24,False,50.0,12.0,29.0
+2023-09-26,Sofa,Avery Hill,Excellent,Seating,8,4800.0,640.0,2400.0,2023-24,False,600.0,80.0,300.0
+2023-09-26,Table,Avery Hill,Excellent,Table,3,210.0,30.0,109.2,2023-24,False,70.0,10.0,36.4
+2023-09-26,Sofa,Avery Hill,Excellent,Seating,1,606.0,42.0,315.12,2023-24,False,606.0,42.0,315.12
+2023-09-26,Table,Avery Hill,Excellent,Table,5,350.0,50.0,182.0,2023-24,False,70.0,10.0,36.4
+2023-09-26,Chair,Avery Hill,Excellent,Seating,4,120.0,48.0,62.4,2023-24,False,30.0,12.0,15.6
+2023-09-26,Sofa,Avery Hill,Excellent,Seating,2,1212.0,84.0,630.24,2023-24,False,606.0,42.0,315.12
+2023-09-26,Table,Avery Hill,Excellent,Table,2,180.0,50.0,93.6,2023-24,False,90.0,25.0,46.8
+2023-09-26,Chair,Avery Hill,Excellent,Seating,2,40.0,24.0,20.8,2023-24,False,20.0,12.0,10.4
+2023-09-26,Sofa,Avery Hill,Excellent,Seating,2,600.0,40.0,600.0,2023-24,False,300.0,20.0,300.0
+2023-09-26,Bench Seat,Avery Hill,Excellent,Seating,1,150.0,20.0,150.0,2023-24,False,150.0,20.0,150.0
+2023-09-26,Coffee Table,Avery Hill,Excellent,Table,1,70.0,10.0,36.4,2023-24,False,70.0,10.0,36.4
+2023-11-09,Table,Greenwich,Excellent,Table,1,70.0,10.0,17.7,2023-24,False,70.0,10.0,17.7
+2023-11-09,Table,Greenwich,Excellent,Table,1,70.0,10.0,17.7,2023-24,False,70.0,10.0,17.7
+2023-11-28,Table,Greenwich,Excellent,Table,1,70.0,10.0,17.7,2023-24,False,70.0,10.0,17.7
+2023-11-28,Coat Rack,Greenwich,Excellent,Storage,1,30.0,10.0,14.4,2023-24,False,30.0,10.0,14.4
+2023-11-28,Operator Chair,Greenwich,Excellent,Seating,1,98.0,17.0,30.1,2023-24,False,98.0,17.0,30.1
+2023-11-28,Desk,Greenwich,Excellent,Office,1,126.0,25.0,38.7,2023-24,False,126.0,25.0,38.7
+2023-11-28,Pedestal,Greenwich,Good,Storage,2,246.0,50.0,75.6,2023-24,False,123.0,25.0,37.8
+2023-11-28,Desk,Greenwich,Good,Office,1,161.0,30.0,49.5,2023-24,False,161.0,30.0,49.5
+2023-11-28,Coat Rack,Greenwich,Excellent,Storage,1,30.0,10.0,14.4,2023-24,False,30.0,10.0,14.4
+2023-11-28,Cupboard,Greenwich,Good,Storage,1,245.1,77.0,127.45,2023-24,False,245.1,77.0,127.45
+2023-11-28,Cupboard,Greenwich,Good,Storage,1,245.1,77.0,127.45,2023-24,False,245.1,77.0,127.45
+2023-11-28,Pedestal,Greenwich,Excellent,Storage,1,123.0,25.0,37.8,2023-24,False,123.0,25.0,37.8
+2023-12-15,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,36.1,2023-24,False,117.0,19.0,36.1
+2023-12-15,Operator Chair,Greenwich,Excellent,Seating,1,98.0,17.0,30.1,2023-24,False,98.0,17.0,30.1
+2023-12-15,Operator Chair,Greenwich,Excellent,Seating,1,98.0,17.0,30.1,2023-24,False,98.0,17.0,30.1
+2023-12-15,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,36.1,2023-24,False,117.0,19.0,36.1
+2023-12-15,Chair,Greenwich,Excellent,Seating,7,623.0,56.0,191.1,2023-24,False,89.0,8.0,27.3
+2024-01-15,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,36.1,2023-24,False,117.0,19.0,36.1
+2024-02-28,Bookcase,Greenwich,Good,Storage,1,133.75,21.0,69.55,2023-24,False,133.75,21.0,69.55
+2024-01-15,Operator Chair,Greenwich,Good,Seating,1,117.0,19.0,36.1,2023-24,False,117.0,19.0,36.1
+2024-01-19,Operator Chair,Greenwich,Excellent,Seating,3,351.0,57.0,108.3,2023-24,False,117.0,19.0,36.1
+2024-01-15,Operator Chair,Greenwich,Good,Seating,1,117.0,19.0,36.1,2023-24,False,117.0,19.0,36.1
+2024-01-30,Shelf,Avery Hill,Excellent,Storage,3,60.0,10.0,32.4,2023-24,False,20.0,3.3333333333333335,10.799999999999999
+2024-03-28,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2023-24,True,121.0,27.0,37.3
+2024-02-15,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2023-24,True,121.0,27.0,37.3
+2024-02-15,Operator Chair,Greenwich,Excellent,Seating,3,351.0,57.0,108.3,2023-24,False,117.0,19.0,36.1
+2024-02-15,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2023-24,True,121.0,27.0,37.3
+2024-02-15,Pedestal ,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2023-24,False,121.0,27.0,37.3
+2024-02-15,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2023-24,True,121.0,27.0,37.3
+2024-02-23,Table,Greenwich,Excellent,Table,1,70.0,25.0,36.4,2023-24,False,70.0,25.0,36.4
+2024-03-28,Desk,Greenwich,Excellent,Office,1,160.0,30.0,49.5,2023-24,False,160.0,30.0,49.5
+2024-02-29,Lockers,Greenwich,Excellent,Storage,1,192.0,60.0,100.0,2023-24,False,192.0,60.0,100.0
+2024-02-29,Clothes rail,Greenwich,Excellent,Storage,1,50.0,6.0,24.0,2023-24,False,50.0,6.0,24.0
+2024-02-29,NoticeBoard,Greenwich,Excellent,Office,1,100.0,1.0,48.0,2023-24,False,100.0,1.0,48.0
+2024-02-29,NoticeBoard,Greenwich,Good,Office,3,300.0,3.0,144.0,2023-24,False,100.0,1.0,48.0
+2024-03-01,Chair,Greenwich,Excellent,Seating,3,702.0,45.0,62.4,2023-24,False,234.0,15.0,20.8
+2024-03-01,Armchair,Greenwich,Excellent,Seating,4,948.0,60.0,291.6,2023-24,False,237.0,15.0,72.9
+2024-03-01,Bookcase,Greenwich,Good,Storage,3,402.0,63.0,208.65,2023-24,False,134.0,21.0,69.55
+2024-03-01,table,Greenwich,Good,Table,1,171.69,25.0,52.9,2023-24,False,171.69,25.0,52.9
+2024-03-07,Sofa,Avery Hill,Excellent,Seating,1,300.0,40.0,300.0,2023-24,False,300.0,40.0,300.0
+2024-03-07,Armchair,Avery Hill,Excellent,Seating,2,474.0,30.0,145.8,2023-24,False,237.0,15.0,72.9
+2024-03-07,Armchair,Greenwich,Excellent,Seating,2,474.0,30.0,145.8,2023-24,False,237.0,15.0,72.9
+2024-03-07,Coffee Table,Avery Hill,Excellent,Table,1,40.0,10.0,20.8,2023-24,False,40.0,10.0,20.8
+2024-03-08,Table,Greenwich,Excellent,Table,1,90.0,25.0,46.8,2023-24,False,90.0,25.0,46.8
+2023-11-28,Pedestal,Greenwich,Good,Storage,1,123.0,25.0,37.8,2023-24,False,123.0,25.0,37.8
+2024-04-05,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2023-24,True,121.0,27.0,37.3
+2024-04-17,Operator Chair,Greenwich,Good,Seating,1,98.0,17.0,30.1,2023-24,False,98.0,17.0,30.1
+2024-04-17,Operator Chair,Greenwich,Good,Seating,1,98.0,17.0,30.1,2023-24,False,98.0,17.0,30.1
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,36.1,2023-24,False,117.0,19.0,36.1
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,2,196.0,34.0,60.2,2023-24,False,98.0,17.0,30.1
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,2,196.0,34.0,60.2,2023-24,False,98.0,17.0,30.1
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,4,392.0,68.0,120.4,2023-24,False,98.0,17.0,30.1
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,1,98.0,17.0,30.1,2023-24,False,98.0,17.0,30.1
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,36.1,2023-24,False,117.0,19.0,36.1
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,1,98.0,17.0,30.1,2023-24,False,98.0,17.0,30.1
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,1,97.6,17.0,30.1,2023-24,False,97.6,17.0,30.1
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,1,97.6,17.0,30.1,2023-24,False,97.6,17.0,30.1
+2023-01-19,Desk,Avery Hill,Good,Office,1,100.0,30.0,52.0,2022-23,False,100.0,30.0,52.0
+2023-03-22,Operator Chair,Avery Hill,Excellent,Seating,1,107.0,12.0,57.4,2022-23,False,107.0,12.0,57.4
+2023-03-22,Table,Avery Hill,Excellent,Table,1,100.0,30.0,52.0,2022-23,False,100.0,30.0,52.0
+2023-03-22,Table,Avery Hill,Excellent,Table,1,100.0,30.0,52.0,2022-23,False,100.0,30.0,52.0
+2023-03-22,Pedestal,Avery Hill,Good,Storage,1,50.0,14.0,26.0,2022-23,False,50.0,14.0,26.0
+2023-03-22,Tambour Unit,Avery Hill,Excellent,Storage,1,100.0,70.0,52.0,2022-23,True,100.0,70.0,52.0
+2022-02-23,Operator Chair,Greenwich,Good,Seating,1,107.0,12.0,55.64,2021-22,False,107.0,12.0,55.64
+2024-06-04,Pedestal,Greenwich,Excellent,Storage,1,121.22,27.0,37.34,2023-24,False,121.22,27.0,37.34
+2024-06-24,Desk,Greenwich,Excellent,Office,1,299.0,30.0,91.9,2023-24,False,299.0,30.0,91.9
+2024-06-24,Desk,Greenwich,Excellent,Office,1,209.0,25.0,64.5,2023-24,False,209.0,25.0,64.5
+2022-10-28,Desk,Avery Hill,Excellent,Office,2,200.0,60.0,105.0,2022-23,False,100.0,30.0,52.5
+2022-10-28,Desk,Avery Hill,Excellent,Office,1,100.0,30.0,52.0,2022-23,False,100.0,30.0,52.0
+2022-10-28,Tambour Unit,Avery Hill,Excellent,Storage,1,100.0,70.0,52.0,2022-23,True,100.0,70.0,52.0
+2022-10-28,Tambour Unit,Avery Hill,Excellent,Storage,1,100.0,70.0,52.0,2022-23,True,100.0,70.0,52.0
+2022-10-31,Chair,Avery Hill,Excellent,Seating,15,300.0,105.0,156.0,2022-23,False,20.0,7.0,10.4
+2022-10-31,Operator Chair,Avery Hill,Excellent,Seating,6,642.0,72.0,333.84,2022-23,False,107.0,12.0,55.63999999999999
+2022-10-31,Operator Chair,Avery Hill,Excellent,Seating,2,214.0,24.0,117.8,2022-23,False,107.0,12.0,58.9
+2022-10-31,Pedestal,Avery Hill,Excellent,Storage,2,100.0,28.0,52.0,2022-23,False,50.0,14.0,26.0
+2022-10-31,Tambour Unit,Avery Hill,Excellent,Storage,1,100.0,70.0,52.0,2022-23,True,100.0,70.0,52.0
+2022-10-31,Tambour Unit,Avery Hill,Excellent,Storage,1,100.0,70.0,52.0,2022-23,True,100.0,70.0,52.0
+2022-10-31,Coffee table,Greenwich,Excellent,Table,1,40.0,10.0,20.8,2022-23,False,40.0,10.0,20.8
+2022-10-31,Chair,Greenwich,Good,Seating,6,120.0,42.0,62.4,2022-23,False,20.0,7.0,10.4
+2022-10-31,Operator Chair,Greenwich,Good,Seating,6,642.0,72.0,333.84,2022-23,False,107.0,12.0,55.63999999999999
+2022-10-31,Pedestal,Greenwich,Good,Storage,1,50.0,14.0,26.0,2022-23,False,50.0,14.0,26.0
+2022-10-31,Pedestal,Greenwich,Good,Storage,1,50.0,14.0,26.0,2022-23,False,50.0,14.0,26.0
+2024-06-24,Desk,Greenwich,Excellent,Office,1,111.0,15.9,34.3,2023-24,False,111.0,15.9,34.3
+2023-06-24,Bookcase,Greenwich,Excellent,Storage,1,151.0,12.5,46.6,2022-23,False,151.0,12.5,46.6
+2023-06-24,Bookcase,Greenwich,Excellent,Storage,1,151.0,12.5,46.6,2022-23,False,151.0,12.5,46.6
+2024-02-15,Pedestal,Greenwich,Excellent,Storage,1,121.22,27.0,37.34,2023-24,False,121.22,27.0,37.34
+2024-04-05,Pedestal,Greenwich,Excellent,Storage,2,242.0,54.0,74.6,2023-24,False,121.0,27.0,37.3
+2024-12-10,Bookcase,Greenwich,Excellent,Storage,3,453.0,37.5,139.8,2024-25,False,151.0,12.5,46.6
+2023-12-15,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2023-24,False,107.0,12.0,55.64
+2024-03-07,Coffee Table,Avery Hill,Excellent,Table,1,110.0,10.8,34.0,2023-24,True,110.0,10.8,34.0
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,2,214.0,24.0,117.8,2023-24,False,107.0,12.0,58.9
+2024-05-01,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2023-24,False,107.0,12.0,55.64
+2024-06-04,Operator chair,Greenwich,Good,Seating,1,107.0,12.0,55.64,2023-24,False,107.0,12.0,55.64
+2024-06-04,Operator chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2023-24,False,107.0,12.0,55.64
+2024-06-04,Operator chair,Greenwich,Fair,Seating,1,107.0,12.0,55.64,2023-24,False,107.0,12.0,55.64
+2023-11-28,Cupboard,Greenwich,Good,Storage,1,220.71,45.0,68.0,2023-24,False,220.71,45.0,68.0
+2024-07-22,Table,Greenwich,Excellent,Table,1,111.0,15.9,34.3,2023-24,False,111.0,15.9,34.3
+2024-06-27,Desk,Greenwich,Excellent,Office,2,344.0,50.0,105.8,2023-24,False,172.0,25.0,52.9
+2022-04-07,Bookcase ,Greenwich,Good,Storage,1,164.0,13.0,50.6,2021-22,False,164.0,13.0,50.6
+2024-07-09,Coffee Table,Greenwich,Excellent,Table,1,80.0,13.1,24.68,2023-24,False,80.0,13.1,24.68
+2024-07-09,Chair,Greenwich,Excellent,Seating,6,786.0,84.0,241.8,2023-24,False,131.0,14.0,40.300000000000004
+2024-07-22,Operator Chair,Greenwich,Excellent,Seating,2,214.0,24.0,111.28,2023-24,False,107.0,12.0,55.64
+2024-07-22,Operator Chair,Greenwich,Excellent,Seating,7,749.0,84.0,389.48,2023-24,False,107.0,12.0,55.64
+2024-07-22,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2023-24,False,107.0,12.0,55.64
+2024-07-22,Pedestal,Greenwich,Excellent,Storage,1,100.0,20.0,30.8,2023-24,False,100.0,20.0,30.8
+2022-02-04,Chair,Greenwich,Good,Seating,2,110.0,14.0,33.8,2021-22,False,55.0,7.0,16.9
+2024-05-17,Chair,Greenwich,Excellent,Seating,1,131.0,14.0,40.3,2023-24,False,131.0,14.0,40.3
+2024-04-26,Desk,Greenwich,Excellent,Office,3,897.0,90.0,275.7,2023-24,False,299.0,30.0,91.89999999999999
+2024-07-22,Desk,Greenwich,Excellent,Office,1,299.0,30.0,91.9,2023-24,False,299.0,30.0,91.9
+2024-07-22,Desk,Greenwich,Excellent,Office,1,299.0,30.0,91.9,2023-24,False,299.0,30.0,91.9
+2024-07-22,Bookcase,Greenwich,Excellent,Storage,1,151.0,12.5,46.6,2023-24,False,151.0,12.5,46.6
+2024-07-22,Bookcase,Greenwich,Excellent,Storage,2,302.0,25.0,93.2,2023-24,False,151.0,12.5,46.6
+2024-07-22,Bookcase,Greenwich,Excellent,Storage,1,151.0,12.5,46.6,2023-24,False,151.0,12.5,46.6
+2024-07-22,Coffee Table,Greenwich,Excellent,Table,1,110.0,10.8,34.0,2023-24,True,110.0,10.8,34.0
+2024-07-22,Bookcase,Greenwich,Excellent,Storage,1,151.0,12.5,46.6,2023-24,False,151.0,12.5,46.6
+2024-08-16,Operator Chair,Greenwich,Excellent,Seating,4,392.0,68.0,120.4,2023-24,False,98.0,17.0,30.1
+2024-08-16,Operator Chair,Greenwich,Excellent,Seating,6,702.0,90.0,219.6,2023-24,False,117.0,15.0,36.6
+2024-10-03,Coat Rack,Greenwich,Good,Storage,1,31.0,8.0,9.55,2024-25,False,31.0,8.0,9.55
+2023-04-04,Chair,Greenwich,Excellent,Seating,2,110.0,14.0,33.8,2022-23,False,55.0,7.0,16.9
+2024-09-06,Chair,Greenwich,Good,Seating,4,220.0,28.0,67.6,2024-25,False,55.0,7.0,16.9
+2024-09-06,Chair,Greenwich,Good,Seating,1,55.0,7.0,16.9,2024-25,False,55.0,7.0,16.9
+2024-09-06,Chair,Greenwich,Good,Seating,3,165.0,21.0,50.7,2024-25,False,55.0,7.0,16.900000000000002
+2023-04-04,Chair,Greenwich,Excellent,Seating,1,88.57,8.0,27.28,2022-23,False,88.57,8.0,27.28
+2023-04-04,Chair,Greenwich,Excellent,Seating,1,88.57,8.0,27.28,2022-23,False,88.57,8.0,27.28
+2023-11-28,Desk,Greenwich,Excellent,Office,1,125.79,25.0,38.7,2023-24,False,125.79,25.0,38.7
+2024-06-04,chair,Greenwich,Excellent,Seating,3,265.71,24.0,81.84,2023-24,False,88.57,8.0,27.28
+2024-06-04,chair,Greenwich,Excellent,Seating,1,55.0,7.0,16.9,2023-24,False,55.0,7.0,16.9
+2024-08-16,Operator Chair,Greenwich,Excellent,Seating,3,351.0,57.0,108.3,2023-24,False,117.0,19.0,36.1
+2024-08-16,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,36.1,2023-24,False,117.0,19.0,36.1
+2024-08-16,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,36.1,2023-24,False,117.0,19.0,36.1
+2024-08-16,Operator Chair,Greenwich,Excellent,Seating,1,98.0,17.0,30.1,2023-24,False,98.0,17.0,30.1
+2024-09-12,Desk,Avery Hill,Excellent,Office,1,209.0,25.0,64.5,2024-25,False,209.0,25.0,64.5
+2024-09-12,Desk,Avery Hill,Excellent,Office,1,161.0,30.0,49.5,2024-25,False,161.0,30.0,49.5
+2024-09-12,Desk,Avery Hill,Excellent,Office,1,213.0,22.0,65.6,2024-25,False,213.0,22.0,65.6
+2024-09-12,Pedestal,Avery Hill,Excellent,Storage,1,121.0,27.0,37.3,2024-25,True,121.0,27.0,37.3
+2024-09-12,Desk,Avery Hill,Excellent,Office,1,161.0,30.0,49.5,2024-25,False,161.0,30.0,49.5
+2024-09-12,Desk,Avery Hill,Excellent,Office,2,252.0,50.0,77.4,2024-25,False,126.0,25.0,38.7
+2022-02-04,Chair,Greenwich,Excellent,Seating,1,89.0,8.0,27.3,2021-22,False,89.0,8.0,27.3
+2022-02-04,Chair,Greenwich,Excellent,Seating,1,89.0,8.0,27.3,2021-22,False,89.0,8.0,27.3
+2024-08-16,Pedestal,Greenwich,Excellent,Storage,3,369.0,75.0,113.4,2023-24,False,123.0,25.0,37.800000000000004
+2024-09-12,Desk,Avery Hill,Excellent,Office,1,126.0,25.0,38.7,2024-25,False,126.0,25.0,38.7
+2024-09-12,Desk,Avery Hill,Excellent,Office,1,161.0,30.0,49.5,2024-25,False,161.0,30.0,49.5
+2024-09-12,Desk,Avery Hill,Excellent,Office,2,222.5,31.7,68.53,2024-25,False,111.25,15.85,34.265
+2024-09-12,Chair,Avery Hill,Excellent,Office,3,228.0,22.2,70.2,2024-25,False,76.0,7.3999999999999995,23.400000000000002
+2024-10-17,Coffee Table,Greenwich,Excellent,Office,1,110.4,10.8,34.0,2024-25,False,110.4,10.8,34.0
+2024-11-05,Armchair,Avery Hill,Excellent,Seating,4,948.0,60.0,291.6,2024-25,False,237.0,15.0,72.9
+2024-10-17,Coffee Table,Greenwich,Excellent,Office,1,80.0,13.0,24.68,2024-25,False,80.0,13.0,24.68
+2024-11-15,Pedestal,Greenwich,Excellent,Storage,3,369.0,75.0,113.51,2024-25,False,123.0,25.0,37.836666666666666
+2022-02-04,Chair,Greenwich,Good,Seating,2,40.0,14.0,20.8,2021-22,False,20.0,7.0,10.4
+2022-02-04,Chair,Greenwich,Good,Seating,1,20.0,7.0,10.4,2021-22,True,20.0,7.0,10.4
+2022-02-04,Chair,Greenwich,Good,Seating,2,40.0,14.0,20.8,2021-22,False,20.0,7.0,10.4
+2022-02-04,Coffee table,Greenwich,Good,Table,1,70.0,10.0,20.8,2021-22,False,70.0,10.0,20.8
+2022-02-04,Coffee table,Greenwich,Good,Table,1,80.12,13.0,24.68,2021-22,False,80.12,13.0,24.68
+2022-02-04,Cupboard,Greenwich,Good,Storage,1,140.0,20.0,72.8,2021-22,False,140.0,20.0,72.8
+2022-02-04,Desk,Greenwich,Good,Office,1,213.0,22.0,66.5,2021-22,False,213.0,22.0,66.5
+2022-02-23,Desk,Greenwich,Excellent,Office,1,100.0,30.0,78.0,2021-22,False,100.0,30.0,78.0
+2022-02-23,Desk,Greenwich,Excellent,Office,1,100.0,30.0,52.0,2021-22,False,100.0,30.0,52.0
+2022-02-23,Cabinet,Greenwich,Good,Storage,1,140.0,20.0,72.8,2021-22,False,140.0,20.0,72.8
+2022-02-23,Cabinet,Greenwich,Good,Storage,1,140.0,20.0,72.8,2021-22,False,140.0,20.0,72.8
+2022-02-23,Coffee table,Greenwich,Good,Table,1,70.0,10.0,36.4,2021-22,False,70.0,10.0,36.4
+2022-02-23,Operator Chair,Greenwich,Good,Seating,1,107.0,12.0,55.64,2021-22,False,107.0,12.0,55.64
+2022-04-07,Cupboard,Greenwich,Good,Storage,1,100.0,30.0,52.0,2021-22,False,100.0,30.0,52.0
+2022-04-07,Desk,Greenwich,Good,Office,1,100.0,30.0,52.0,2021-22,False,100.0,30.0,52.0
+2022-04-07,Desk,Greenwich,Good,Office,1,100.0,30.0,52.0,2021-22,False,100.0,30.0,52.0
+2021-06-16,Chair,Greenwich,Excellent,Seating,2,178.0,16.0,54.6,2020-21,False,89.0,8.0,27.3
+2022-05-16,Cupboard,Greenwich,Good,Storage,1,134.0,21.0,69.55,2021-22,False,134.0,21.0,69.55
+2022-05-16,Cupboard,Greenwich,Good,Storage,1,134.0,21.0,69.55,2021-22,False,134.0,21.0,69.55
+2022-08-08,Desk,Greenwich,Good,Office,1,213.0,22.0,66.5,2021-22,False,213.0,22.0,66.5
+2021-06-16,Chair,Greenwich,Excellent,Seating,2,30.0,12.0,15.6,2020-21,True,15.0,6.0,7.8
+2023-02-14,Operator Chair,Greenwich,Good,Seating,1,107.0,12.0,57.4,2022-23,False,107.0,12.0,57.4
+2021-06-16,Pedestal,Greenwich,Excellent,Storage,1,50.0,14.0,26.0,2020-21,False,50.0,14.0,26.0
+2024-08-16,Operator Chair,Greenwich,Excellent,Seating,2,234.0,38.0,72.2,2023-24,False,117.0,19.0,36.1
+2024-08-16,Operator Chair,Greenwich,Excellent,Seating,2,234.0,38.0,72.2,2023-24,False,117.0,19.0,36.1
+2024-09-12,Desk,Avery Hill,Good,Office,1,209.0,25.0,64.5,2024-25,False,209.0,25.0,64.5
+2024-09-12,Desk,Avery Hill,Excellent,Office,1,209.0,25.0,64.5,2024-25,False,209.0,25.0,64.5
+2022-02-04,Pedestal,Greenwich,Good,Storage,1,50.0,14.0,26.0,2021-22,False,50.0,14.0,26.0
+2022-03-11,Operator Chair,Greenwich,Good,Seating,1,107.0,12.0,55.64,2021-22,False,107.0,12.0,55.64
+2022-03-11,Pedestal,Greenwich,Good,Storage,1,50.0,14.0,26.0,2021-22,False,50.0,14.0,26.0
+2022-05-06,Desk,Greenwich,Excellent,Office,1,100.0,30.0,52.0,2021-22,False,100.0,30.0,52.0
+2023-03-21,Operator Chair,Greenwich,Good,Seating,1,107.0,12.0,57.4,2022-23,False,107.0,12.0,57.4
+2024-02-02,Desk,Greenwich,Excellent,Office,3,483.0,90.0,148.5,2023-24,False,161.0,30.0,49.5
+2022-12-21,Operator Chair,Greenwich,Excellent,Seating,2,214.0,24.0,112.8,2022-23,False,107.0,12.0,56.4
+2024-09-06,Desk,Greenwich,Excellent,Office,1,161.0,30.0,49.5,2024-25,False,161.0,30.0,49.5
+2024-12-10,Cupboard,Greenwich,Excellent,Storage,3,662.14,135.0,203.94,2024-25,False,220.71333333333334,45.0,67.98
+2024-10-12,Operator Chair,Greenwich,Excellent,Seating,2,234.0,38.0,72.2,2024-25,False,117.0,19.0,36.1
+2025-01-10,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2024-25,True,121.0,27.0,37.3
+2025-01-10,Bookcase ,Greenwich,Excellent,Storage,1,151.0,12.5,46.6,2024-25,False,151.0,12.5,46.6
+2025-01-10,Bookcase ,Greenwich,Excellent,Storage,1,151.0,12.5,46.6,2024-25,False,151.0,12.5,46.6
+2023-03-21,Operator Chair,Greenwich,Good,Seating,1,117.0,19.0,36.1,2022-23,False,117.0,19.0,36.1
+2024-08-16,Pedestal,Greenwich,Excellent,Storage,1,123.0,25.0,37.8,2023-24,False,123.0,25.0,37.8
+2025-01-10,Armchair,Greenwich,Good,Seating,1,237.0,15.0,72.9,2024-25,False,237.0,15.0,72.9
+2025-01-10,Coffee Table,Greenwich,Excellent,Table,1,80.0,13.1,24.7,2024-25,False,80.0,13.1,24.7
+2024-09-12,Pedestal,Avery Hill,Excellent,Storage,1,121.0,27.0,37.34,2024-25,False,121.0,27.0,37.34
+2024-06-04,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2023-24,True,121.0,27.0,37.3
+2024-08-16,Operator Chair,Greenwich,Excellent,Seating,2,234.0,38.0,72.2,2023-24,False,117.0,19.0,36.1
+2025-04-07,Chair,Greenwich,Excellent,Seating,2,474.0,30.0,145.8,2024-25,False,237.0,15.0,72.9
+2025-04-08,Pedestal,Greenwich,Excellent,Office,2,246.0,50.0,75.6,2024-25,False,123.0,25.0,37.8
+2025-04-08,Desk,Greenwich,Excellent,Office,1,126.0,25.0,38.7,2024-25,False,126.0,25.0,38.7
+2025-04-08,Bookcase,Greenwich,Excellent,Storage,1,151.0,12.5,46.6,2024-25,False,151.0,12.5,46.6
+2025-04-25,Pedestal,Greenwich,Good,Storage,1,121.0,27.0,37.3,2024-25,False,121.0,27.0,37.3
+2025-04-25,Pedestal,Greenwich,Good,Storage,1,121.0,27.0,37.3,2024-25,False,121.0,27.0,37.3
+2025-03-18,Coffee Table,Greenwich,Excellent,Table,1,110.0,10.8,34.0,2024-25,True,110.0,10.8,34.0
+2025-05-22,Coffee Table,Greenwich,Excellent,Table,1,110.0,10.8,34.0,2024-25,True,110.0,10.8,34.0
+2025-06-19,Chair,Greenwich,Good,Seating,2,152.0,14.8,46.8,2024-25,False,76.0,7.4,23.4
+2025-06-19,Chair,Greenwich,Good,Seating,4,304.0,29.6,93.6,2024-25,False,76.0,7.4,23.4
+2025-06-19,Chair,Greenwich,Good,Seating,3,228.0,22.2,70.2,2024-25,False,76.0,7.3999999999999995,23.400000000000002
+2025-06-19,Chair,Greenwich,Good,Seating,2,152.0,14.8,46.8,2024-25,False,76.0,7.4,23.4
+2025-06-19,Chair,Greenwich,Good,Seating,2,152.0,14.8,46.8,2024-25,False,76.0,7.4,23.4
+2025-06-19,Chair,Greenwich,Good,Seating,4,304.0,29.6,93.6,2024-25,False,76.0,7.4,23.4
+2025-06-19,Chair,Greenwich,Good,Seating,2,152.0,14.8,46.8,2024-25,False,76.0,7.4,23.4
+2025-06-19,Chair,Greenwich,Good,Seating,7,532.0,51.8,163.8,2024-25,False,76.0,7.3999999999999995,23.400000000000002
+2025-06-19,Chair,Greenwich,Good,Seating,4,304.0,29.6,93.6,2024-25,False,76.0,7.4,23.4
+2025-06-19,Chair,Greenwich,Good,Seating,5,380.0,37.0,117.0,2024-25,False,76.0,7.4,23.4
+2025-06-19,Chair,Greenwich,Good,Seating,3,228.0,22.2,70.2,2024-25,False,76.0,7.3999999999999995,23.400000000000002
+2025-06-19,Chair,Greenwich,Good,Seating,2,152.0,14.8,46.8,2024-25,False,76.0,7.4,23.4
+2025-06-19,Chair,Greenwich,Good,Seating,6,456.0,44.4,140.4,2024-25,False,76.0,7.3999999999999995,23.400000000000002
+2025-06-19,Chair,Greenwich,Good,Seating,2,152.0,14.8,46.8,2024-25,False,76.0,7.4,23.4
+2025-06-19,Chair,Greenwich,Excellent,Seating,8,608.0,59.2,187.2,2024-25,False,76.0,7.4,23.4
+2025-06-19,Table,Greenwich,Excellent,Table,1,111.0,15.9,34.3,2024-25,False,111.0,15.9,34.3
+2025-07-01,Bookcase,Greenwich,Excellent,Storage,1,151.0,12.5,46.6,2024-25,False,151.0,12.5,46.6
+2025-07-28,Operator Chair,Greenwich,Excellent,Seating,6,702.0,114.0,216.6,2024-25,False,117.0,19.0,36.1
+2025-07-28,Operator Chair,Greenwich,Excellent,Seating,16,1568.0,272.0,481.6,2024-25,False,98.0,17.0,30.1
+2025-07-30,Sofa,Greenwich,Excellent,Seating,3,1092.0,204.0,336.3,2024-25,False,364.0,68.0,112.10000000000001
+2025-01-10,Sofa,Greenwich,Good,Seating,1,249.0,45.0,76.7,2024-25,False,249.0,45.0,76.7
+2025-09-02,Glass-Fronted Cabinet,Greenwich,Good,Storage,1,100.0,22.0,30.8,2025-26,False,100.0,22.0,30.8
+2025-09-02,Cabinet,Greenwich,Excellent,Storage,1,205.0,85.3,63.0,2025-26,False,205.0,85.3,63.0
+2025-09-02,Chair,Greenwich,Excellent,Seating,5,90.0,20.0,27.0,2025-26,False,18.0,4.0,5.4
+2025-09-02,Chair,Greenwich,Excellent,Seating,6,534.0,48.0,54.0,2025-26,False,89.0,8.0,9.0
+2025-09-11,Table,Greenwich,Good,Table,1,111.0,15.9,34.1,2025-26,False,111.0,15.9,34.1
+2025-09-02,Chair,Greenwich,Excellent,Seating,2,178.0,16.0,54.6,2025-26,False,89.0,8.0,27.3
+2025-09-02,Desk Divider,Greenwich,Excellent,Office,3,207.0,16.5,63.9,2025-26,False,69.0,5.5,21.3
+2025-03-18,Desk,Greenwich,Excellent,Office,1,125.79,25.0,38.74,2024-25,False,125.79,25.0,38.74
+2025-09-02,Coffee Table,Greenwich,Excellent,Table,1,110.0,10.8,34.0,2025-26,True,110.0,10.8,34.0
+2025-09-02,Tambour Unit,Greenwich,Excellent,Storage,1,205.0,85.3,63.0,2025-26,False,205.0,85.3,63.0
+2025-09-02,Table,Greenwich,Excellent,Table,1,111.0,15.9,34.3,2025-26,False,111.0,15.9,34.3
+2025-09-02,Operator Chair,Greenwich,Excellent,Seating,7,686.0,119.0,210.7,2025-26,False,98.0,17.0,30.099999999999998
+2025-09-02,Operator Chair,Greenwich,Excellent,Seating,5,490.0,85.0,150.5,2025-26,False,98.0,17.0,30.1
+2025-09-02,Operator Chair,Greenwich,Excellent,Seating,10,980.0,170.0,301.0,2025-26,False,98.0,17.0,30.1
+2025-09-02,Operator Chair,Greenwich,Excellent,Seating,1,97.6,17.0,30.06,2025-26,False,97.6,17.0,30.06
+2025-09-02,Operator Chair,Greenwich,Excellent,Seating,7,686.0,119.0,210.7,2025-26,False,98.0,17.0,30.099999999999998
+2025-09-02,Operator Chair,Greenwich,Excellent,Seating,1,98.0,17.0,30.1,2025-26,False,98.0,17.0,30.1
+2025-09-02,Operator Chair,Greenwich,Good,Seating,4,468.0,76.0,144.4,2025-26,False,117.0,19.0,36.1
+2025-09-02,Pedestal,Greenwich,Excellent,Storage,1,121.22,27.0,37.34,2025-26,False,121.22,27.0,37.34
+2025-09-02,Pedestal,Greenwich,Excellent,Storage,1,121.22,27.0,37.34,2025-26,False,121.22,27.0,37.34
+2025-09-02,Pedestal,Greenwich,Good,Storage,1,121.22,27.0,37.34,2025-26,False,121.22,27.0,37.34
+2025-07-08,Coffee Table,Greenwich,Excellent,Table,1,110.0,10.8,34.0,2024-25,True,110.0,10.8,34.0
+2025-09-02,Coffee Table,Greenwich,Excellent,Table,1,110.0,10.8,34.0,2025-26,True,110.0,10.8,34.0
+2025-07-30,Operator Chair,Avery Hill,Excellent,Seating,4,392.0,76.0,144.4,2024-25,False,98.0,19.0,36.1
+2025-07-31,Coffee Table,Avery Hill,Good,Table,2,220.8,21.65,68.01,2024-25,False,110.4,10.825,34.005
+2025-07-31,Cupboard,Avery Hill,Excellent,Storage,1,221.0,70.0,68.0,2024-25,False,221.0,70.0,68.0
+2025-07-31,Cupboard,Avery Hill,Excellent,Storage,1,221.0,70.0,68.0,2024-25,False,221.0,70.0,68.0
+2025-08-12,Operator Chair,Greenwich,Excellent,Office,16,1568.0,272.0,481.6,2024-25,False,98.0,17.0,30.1
+2025-08-13,Operator Chair,Greenwich,Excellent,Office,1,97.6,17.0,30.06,2024-25,False,97.6,17.0,30.06
+2025-09-08,Coffee Table,Greenwich,Excellent,Table,1,110.0,10.8,34.0,2025-26,True,110.0,10.8,34.0
+2025-09-08,Chair,Greenwich,Excellent,Seating,1,236.79,15.0,72.93,2025-26,False,236.79,15.0,72.93
+2025-09-16,Sofa,Medway,Good,Seating,5,1245.0,225.0,383.5,2025-26,False,249.0,45.0,76.7
+2025-09-19,Operator Chair,Greenwich,Excellent,Office,29,2842.0,493.0,872.9,2025-26,False,98.0,17.0,30.099999999999998
+2025-10-02,Chair,Medway,Good,Seating,10,2370.0,150.0,729.0,2025-26,False,237.0,15.0,72.9
+2025-10-02,Coffee Table,Medway,Good,Table,6,480.0,78.6,148.2,2025-26,False,80.0,13.1,24.7
+2025-10-28,Chair,Greenwich,Excellent,Seating,3,267.0,24.0,81.9,2025-26,False,89.0,8.0,27.3
+2025-10-28,Operator Chair,Greenwich,Good,Seating,2,196.0,34.0,60.12,2025-26,False,98.0,17.0,30.06
+2025-10-28,Operator Chair,Greenwich,Good,Seating,2,196.0,34.0,60.12,2025-26,False,98.0,17.0,30.06
+2025-10-28,Operator Chair,Greenwich,Good,Seating,1,97.6,17.0,30.06,2025-26,False,97.6,17.0,30.06
+2025-10-28,Cabinet,Greenwich,Excellent,Storage,1,204.5,85.33,62.99,2025-26,False,204.5,85.33,62.99
+2021-06-16,Chair,Greenwich,Excellent,Seating,3,265.71,24.0,81.84,2020-21,False,88.57,8.0,27.28
+2025-11-27,Coffee Table,Greenwich,Excellent,Table,1,110.4,10.82,34.0,2025-26,False,110.4,10.82,34.0
+2025-11-27,Coffee Table,Greenwich,Excellent,Table,1,110.4,10.82,34.0,2025-26,False,110.4,10.82,34.0
+2025-11-27,Coffee Table,Medway,Good,Table,1,110.4,10.82,34.0,2025-26,False,110.4,10.82,34.0
+2025-09-02,Cabinet,Greenwich,Excellent,Storage,1,152.09,30.0,46.84,2025-26,False,152.09,30.0,46.84
+2025-09-02,Pedestal,Greenwich,Excellent,Office,1,122.85,25.0,37.84,2025-26,False,122.85,25.0,37.84
+2025-10-31,Operator chair,Avery Hill,Excellent,Seating,1,117.0,19.0,36.1,2025-26,False,117.0,19.0,36.1
+2025-07-31,Desk,Avery Hill,Excellent,Office,1,126.0,25.0,38.7,2024-25,False,126.0,25.0,38.7
+2025-09-08,Table,Greenwich,Excellent,Table,1,111.0,15.9,34.3,2025-26,False,111.0,15.9,34.3
+2025-10-28,Desk,Greenwich,Excellent,Office,1,126.0,25.0,38.7,2025-26,False,126.0,25.0,38.7
+2025-11-27,Cupboard,Medway,Good,Storage,1,247.0,47.0,75.9,2025-26,False,247.0,47.0,75.9
+2025-11-27,Cupboard,Medway,Excellent,Storage,1,220.71,45.0,67.98,2025-26,False,220.71,45.0,67.98
+2025-11-27,Operator Chair,Medway,Good,Office,1,117.0,19.0,36.1,2025-26,False,117.0,19.0,36.1
+2025-11-27,Operator Chair,Medway,Good,Office,1,117.0,19.0,36.1,2025-26,False,117.0,19.0,36.1
+2025-11-27,Operator Chair,Medway,Good,Office,1,117.0,19.0,36.1,2025-26,False,117.0,19.0,36.1
+2025-11-27,Operator Chair,Greenwich,Excellent,Office,1,117.0,19.0,36.1,2025-26,False,117.0,19.0,36.1
+2025-11-27,Operator Chair,Greenwich,Excellent,Office,1,117.0,19.0,36.1,2025-26,False,117.0,19.0,36.1
+2025-09-02,Chair,Greenwich,Good,Seating,2,110.0,14.0,33.8,2025-26,False,55.0,7.0,16.9
+2023-09-26,Bookcase ,Avery Hill,Excellent,Storage,1,102.33,11.87,31.52,2023-24,False,102.33,11.87,31.52
+2025-10-28,Chair,Greenwich,Excellent,Seating,6,534.0,48.0,163.8,2025-26,False,89.0,8.0,27.3
+2025-01-10,Cabinet,Greenwich,Excellent,Storage,2,200.0,44.0,61.6,2024-25,False,100.0,22.0,30.8
+2026-04-02,Bookcase ,Greenwich,Excellent,Storage,1,164.0,13.0,50.6,2025-26,False,164.0,13.0,50.6
+2026-03-16,Coffee Table,Avery Hill,Excellent,Table,1,110.0,10.8,34.0,2025-26,True,110.0,10.8,34.0
+2026-03-16,Coffee Table,Avery Hill,Excellent,Table,1,110.0,10.8,34.0,2025-26,True,110.0,10.8,34.0
+2026-04-02,Bookcase ,Greenwich,Excellent,Storage,1,151.0,12.5,46.6,2025-26,False,151.0,12.5,46.6
+2024-11-15,Pedestal,Greenwich,Excellent,Storage,2,242.0,54.0,74.6,2024-25,False,121.0,27.0,37.3
+2023-04-21,Desk,Greenwich,Excellent,Office,2,200.0,60.0,104.0,2022-23,False,100.0,30.0,52.0
+2023-05-18,Chair,Greenwich,Excellent,Seating,41,1230.0,205.0,639.6,2022-23,False,30.0,5.0,15.600000000000001
+2023-05-18,Chair,Greenwich,Excellent,Seating,4,120.0,48.0,62.4,2022-23,False,30.0,12.0,15.6
+2023-06-12,Chair,Avery Hill,Good,Seating,8,160.0,56.0,83.2,2022-23,False,20.0,7.0,10.4
+2023-06-12,Table,Avery Hill,Good,Table,2,180.0,50.0,93.4,2022-23,False,90.0,25.0,46.7
+2023-06-12,Sofa,Avery Hill,Good,Seating,2,600.0,80.0,300.0,2022-23,False,300.0,40.0,150.0
+2023-06-12,Coffee table,Avery Hill,Good,Table,1,70.0,10.0,17.7,2022-23,False,70.0,10.0,17.7
+2023-07-04,Desk,Avery Hill,Excellent,Office,1,126.0,25.0,38.7,2022-23,False,126.0,25.0,38.7
+2023-09-01,Chair,Greenwich,Excellent,Seating,8,160.0,54.0,83.2,2023-24,False,20.0,6.75,10.4
+2023-09-01,Tambour Unit,Greenwich,Excellent,Storage,3,300.0,210.0,156.0,2023-24,False,100.0,70.0,52.0
+2023-09-01,Table,Greenwich,Excellent,Table,8,260.0,136.0,166.4,2023-24,False,32.5,17.0,20.8
+2023-09-14,Desk,Greenwich,Good,Office,1,126.0,25.0,38.7,2023-24,False,126.0,25.0,38.7
+2023-09-14,Coffee Table,Greenwich,Good,Table,1,70.0,10.0,17.7,2023-24,False,70.0,10.0,17.7
+2023-09-14,Chair,Greenwich,Good,Seating,2,40.0,24.0,20.8,2023-24,False,20.0,12.0,10.4
+2023-09-14,Armchair,Greenwich,Good,Seating,2,474.0,30.0,145.8,2023-24,False,237.0,15.0,72.9
+2023-09-26,Desk,Avery Hill,Excellent,Office,1,213.0,22.0,66.5,2023-24,False,213.0,22.0,66.5
+2023-09-26,Display Board,Avery Hill,Excellent,Office,2,200.0,20.0,96.0,2023-24,False,100.0,10.0,48.0
+2024-01-30,Lockers,Avery Hill,Excellent,Storage,11,935.0,198.0,288.2,2023-24,False,85.0,18.0,26.2
+2024-02-06,Table,Greenwich,Excellent,Table,13,1300.0,150.0,520.0,2023-24,False,100.0,11.538461538461538,40.0
+2024-02-06,Chair,Greenwich,Excellent,Seating,43,1290.0,516.0,670.8,2023-24,False,30.0,12.0,15.6
+2024-02-06,Sofa,Greenwich,Excellent,Seating,3,900.0,120.0,450.0,2023-24,False,300.0,40.0,150.0
+2024-02-06,Bookcase,Greenwich,Excellent,Storage,4,536.0,84.0,278.2,2023-24,False,134.0,21.0,69.55
+2024-02-06,Desk,Greenwich,Excellent,Office,8,1288.0,240.0,396.0,2023-24,False,161.0,30.0,49.5
+2024-02-06,Operator Chair,Greenwich,Excellent,Seating,5,490.0,85.0,150.5,2023-24,False,98.0,17.0,30.1
+2024-02-06,Desk,Greenwich,Excellent,Office,1,126.0,25.0,38.7,2023-24,False,126.0,25.0,38.7
+2024-02-06,Table,Greenwich,Excellent,Table,1,90.0,25.0,46.7,2023-24,False,90.0,25.0,46.7
+2024-02-06,Cabinet,Greenwich,Excellent,Storage,3,420.0,60.0,218.4,2023-24,False,140.0,20.0,72.8
+2024-02-29,Desk,Avery Hill,Excellent,Office,48,16800.0,1920.0,4411.2,2023-24,False,350.0,40.0,91.89999999999999
+2024-02-29,Desk,Avery Hill,Excellent,Office,2,598.0,60.0,183.8,2023-24,False,299.0,30.0,91.9
+2024-02-29,Desk,Avery Hill,Excellent,Office,2,252.0,50.0,77.4,2023-24,False,126.0,25.0,38.7
+2024-02-29,Operator Chair,Avery Hill,Excellent,Seating,31,3038.0,527.0,933.1,2023-24,False,98.0,17.0,30.1
+2024-02-29,Desk,Avery Hill,Excellent,Office,1,350.0,40.0,91.9,2023-24,False,350.0,40.0,91.9
+2024-02-29,Desk,Avery Hill,Excellent,Office,4,1400.0,160.0,367.6,2023-24,False,350.0,40.0,91.9
+2024-03-20,Operator Chair,Greenwich,Excellent,Seating,6,588.0,102.0,180.6,2023-24,False,98.0,17.0,30.099999999999998
+2024-03-20,Desk,Greenwich,Excellent,Office,2,252.0,50.0,77.4,2023-24,False,126.0,25.0,38.7
+2024-03-20,Desk,Greenwich,Excellent,Office,4,504.0,100.0,154.8,2023-24,False,126.0,25.0,38.7
+2024-03-20,Chair,Greenwich,Excellent,Seating,2,40.0,14.0,20.8,2023-24,False,20.0,7.0,10.4
+2022-11-14,Desk,Avery Hill,Excellent,Office,4,400.0,120.0,208.0,2022-23,False,100.0,30.0,52.0
+2022-10-28,Chair,Avery Hill,Excellent,Seating,2,214.0,24.0,111.28,2022-23,False,107.0,12.0,55.64
+2022-10-28,Desktops ,Greenwich,Excellent,Office,22,2200.0,660.0,1144.0,2022-23,False,100.0,30.0,52.0
+2024-02-29,Desk,Avery Hill,Excellent,Office,1,350.0,40.0,91.9,2023-24,False,350.0,40.0,91.9
+2024-07-22,Operator Chair,Greenwich,Excellent,Seating,1,107.0,12.0,55.64,2023-24,False,107.0,12.0,55.64
+2024-09-09,Desk,Greenwich,Excellent,Office,2,700.0,80.0,183.8,2024-25,False,350.0,40.0,91.9
+2024-09-09,Desk,Greenwich,Excellent,Office,8,1288.0,240.0,396.0,2024-25,False,161.0,30.0,49.5
+2024-09-09,Stool,Greenwich,Excellent,Seating,1,83.0,7.2,25.5,2024-25,False,83.0,7.2,25.5
+2024-09-12,Desk,Avery Hill,Excellent,Office,3,185.845,30.0,64.5,2024-25,True,61.94833333333333,10.0,21.5
+2024-09-09,Desk,Greenwich,Excellent,Office,36,12600.0,1440.0,3308.4,2024-25,False,350.0,40.0,91.9
+2024-09-09,Operator Chair,Greenwich,Excellent,Office,37,2701.0,277.5,45.0,2024-25,False,73.0,7.5,1.2162162162162162
+2024-09-09,Desk,Greenwich,Excellent,Office,1,161.0,30.0,49.5,2024-25,False,161.0,30.0,49.5
+2024-09-09,Desk,Greenwich,Excellent,Office,1,350.0,40.0,91.9,2024-25,False,350.0,40.0,91.9
+2024-10-17,Operator Chair,Greenwich,Excellent,Seating,3,294.0,51.0,90.3,2024-25,False,98.0,17.0,30.099999999999998
+2024-10-17,Desk,Greenwich,Excellent,Office,1,161.0,30.0,49.48,2024-25,False,161.0,30.0,49.48
+2024-10-17,Desk,Greenwich,Excellent,Office,1,161.0,30.0,49.48,2024-25,False,161.0,30.0,49.48
+2024-10-17,Desk,Greenwich,Excellent,Office,1,161.0,30.0,49.48,2024-25,False,161.0,30.0,49.48
+2024-10-17,Pedestal,Greenwich,Excellent,Storage,3,363.0,81.0,111.9,2024-25,False,121.0,27.0,37.300000000000004
+2024-10-28,Lockers,Greenwich,Excellent,Storage,5,1985.0,260.0,611.0,2024-25,False,397.0,52.0,122.2
+2024-09-09,Desk,Greenwich,Excellent,Office,2,700.0,80.0,20.22,2024-25,False,350.0,40.0,10.11
+2024-11-13,Desk,Medway,Excellent,Office,6,966.0,180.0,297.0,2024-25,False,161.0,30.0,49.5
+2024-11-13,Desk,Medway,Excellent,Office,2,322.0,60.0,99.0,2024-25,False,161.0,30.0,49.5
+2024-09-09,Desk,Greenwich,Excellent,Office,2,700.0,80.0,20.22,2024-25,False,350.0,40.0,10.11
+2024-12-18,Lockers,Avery Hill,Excellent,Storage,2,794.0,104.0,244.4,2024-25,False,397.0,52.0,122.2
+2024-08-16,Operator Chair,Greenwich,Excellent,Seating,1,98.0,17.0,30.06,2023-24,False,98.0,17.0,30.06
+2024-08-16,Operator Chair,Greenwich,Fair,Seating,1,98.0,17.0,30.06,2023-24,False,98.0,17.0,30.06
+2024-08-16,Operator Chair,Greenwich,Fair,Seating,1,98.0,17.0,30.06,2023-24,False,98.0,17.0,30.06
+2024-08-16,Pedestal,Greenwich,Excellent,Storage,2,246.0,50.0,75.6,2023-24,False,123.0,25.0,37.8
+2024-08-16,Pedestal,Greenwich,Excellent,Storage,2,246.0,50.0,75.6,2023-24,False,123.0,25.0,37.8
+2024-09-12,Desk,Avery Hill,Excellent,Office,3,185.845,30.0,64.5,2024-25,True,61.94833333333333,10.0,21.5
+2024-11-29,Armchair,Greenwich,Excellent,Seating,2,474.0,30.0,145.8,2024-25,False,237.0,15.0,72.9
+2024-08-16,Operator Chair,Greenwich,Good,Seating,1,98.0,17.0,30.06,2023-24,False,98.0,17.0,30.06
+2025-01-10,Desk,Greenwich,Excellent,Office,1,185.845,30.0,64.5,2024-25,True,185.845,30.0,64.5
+2025-01-28,Table,Greenwich,Excellent,Table,50,3200.0,540.0,985.0,2024-25,False,64.0,10.8,19.7
+2023-11-28,Pedestal,Greenwich,Good,Storage,1,123.0,25.0,37.8,2023-24,False,123.0,25.0,37.8
+2023-11-28,Pedestal,Greenwich,Good,Storage,1,123.0,25.0,37.8,2023-24,False,123.0,25.0,37.8
+2025-02-06,Chair,Greenwich,Excellent,Office,6,330.0,42.0,101.4,2024-25,False,55.0,7.0,16.900000000000002
+2025-02-06,Sofa,Greenwich,Excellent,Office,1,248.6,45.0,76.57,2024-25,False,248.6,45.0,76.57
+2022-04-07,Bookcase ,Greenwich,Good,Storage,1,151.0,12.5,48.6,2021-22,False,151.0,12.5,48.6
+2025-03-05,Chair,Greenwich,Excellent,Seating,1,237.0,15.0,72.9,2024-25,False,237.0,15.0,72.9
+2025-03-05,Operator chair,Greenwich,Excellent,Seating,2,196.0,34.0,60.2,2024-25,False,98.0,17.0,30.1
+2025-03-05,Chair,Greenwich,Excellent,Seating,2,64.0,8.0,19.4,2024-25,False,32.0,4.0,9.7
+2025-03-17,Sofa,Greenwich,Excellent,Seating,1,364.0,68.0,112.1,2024-25,False,364.0,68.0,112.1
+2025-03-17,Chair,Greenwich,Excellent,Seating,11,836.0,81.4,257.4,2024-25,False,76.0,7.4,23.4
+2025-03-17,Coffee Table,Greenwich,Excellent,Table,3,330.0,32.4,102.0,2024-25,False,110.0,10.799999999999999,34.0
+2025-05-06,Desk,Greenwich,Excellent,Office,3,483.0,90.0,148.5,2024-25,False,161.0,30.0,49.5
+2025-05-06,Desk,Greenwich,Excellent,Office,1,161.0,30.0,49.5,2024-25,False,161.0,30.0,49.5
+2025-06-19,Chair,Greenwich,Excellent,Seating,3,1064.0,103.6,327.6,2024-25,False,354.6666666666667,34.53333333333333,109.2
+2025-06-19,Table,Greenwich,Excellent,Table,2,222.0,31.8,68.6,2024-25,False,111.0,15.9,34.3
+2025-07-03,Chair,Greenwich,Good,Seating,13,988.0,96.2,304.2,2024-25,False,76.0,7.4,23.4
+2025-07-30,Chair,Avery Hill,Excellent,Seating,7,623.0,56.0,27.3,2024-25,False,89.0,8.0,3.9
+2025-08-05,Desk,Greenwich,Excellent,Office,26,9100.0,1040.0,2389.4,2024-25,False,350.0,40.0,91.9
+2025-08-05,Sofa,Greenwich,Excellent,Seating,1,249.0,45.0,76.7,2024-25,False,249.0,45.0,76.7
+2025-08-05,Desk,Greenwich,Excellent,Office,2,252.0,50.0,77.4,2024-25,False,126.0,25.0,38.7
+2025-08-05,Desk,Greenwich,Excellent,Office,9,1449.0,270.0,445.5,2024-25,False,161.0,30.0,49.5
+2025-08-05,Cupboard,Greenwich,Excellent,Storage,5,1235.0,235.0,379.5,2024-25,False,247.0,47.0,75.9
+2025-08-05,Chair,Greenwich,Excellent,Seating,9,495.0,63.0,152.1,2024-25,False,55.0,7.0,16.9
+2025-08-05,Coffee Table,Greenwich,Excellent,Table,2,220.0,21.6,68.0,2024-25,False,110.0,10.8,34.0
+2025-08-05,Operator Chair,Greenwich,Excellent,Office,6,588.0,102.0,180.6,2024-25,False,98.0,17.0,30.099999999999998
+2025-09-08,Desk,Greenwich,Excellent,Office,1,161.0,30.0,49.5,2025-26,False,161.0,30.0,49.5
+2025-10-28,Desk,Greenwich,Excellent,Office,4,504.0,100.0,154.8,2025-26,False,126.0,25.0,38.7
+2023-04-18,Chair,Greenwich,Excellent,Seating,2,178.0,16.0,54.6,2022-23,False,89.0,8.0,27.3
+2024-06-09,Cabinet,Greenwich,Excellent,Storage,1,149.0,22.0,46.0,2023-24,False,149.0,22.0,46.0
+2021-06-16,Chair,Greenwich,Excellent,Seating,27,2889.0,324.0,1502.28,2020-21,False,107.0,12.0,55.64
+2022-02-04,Chair,Greenwich,Excellent,Seating,10,670.0,70.0,348.4,2021-22,False,67.0,7.0,34.839999999999996
+,Chair,Avery Hill,Excellent,Seating,20,1340.0,140.0,696.8,Unknown,False,67.0,7.0,34.839999999999996
+2023-11-28,Chair,Greenwich,Excellent,Seating,19,570.0,228.0,296.4,2023-24,False,30.0,12.0,15.6
+2024-01-17,Operator chair,Greenwich,Good,Seating,4,392.0,68.0,120.4,2023-24,False,98.0,17.0,30.1
+2024-07-22,Operator Chair,Greenwich,Excellent,Seating,6,642.0,72.0,333.84,2023-24,False,107.0,12.0,55.63999999999999
+2024-08-16,Operator Chair,Greenwich,Fair,Seating,1,117.27,19.0,36.12,2023-24,False,117.27,19.0,36.12
+2024-08-16,Operator Chair,Greenwich,Fair,Seating,1,97.6,17.0,30.06,2023-24,False,97.6,17.0,30.06
+2025-03-10,Desk,Greenwich,Excellent,Office,1,171.69,25.0,52.88,2024-25,False,171.69,25.0,52.88
+2023-04-18,Chair,Greenwich,Excellent,Seating,4,220.0,28.0,67.6,2022-23,False,55.0,7.0,16.9
+2024-11-15,Pedestal,Greenwich,Excellent,Storage,2,246.0,50.0,75.6,2024-25,False,123.0,25.0,37.8
+2024-11-15,Cabinet,Greenwich,Excellent,Storage,2,306.0,140.0,94.4,2024-25,False,153.0,70.0,47.2
+2025-04-08,Chair,Greenwich,Excellent,Seating,12,3840.0,180.0,1183.2,2024-25,False,320.0,15.0,98.60000000000001
+2025-07-31,Coffee Table,Greenwich,Excellent,Table,1,110.0,10.8,34.0,2024-25,True,110.0,10.8,34.0
+2025-07-31,Chair,Greenwich,Excellent,Seating,2,156.0,8.0,10.8,2024-25,False,78.0,4.0,5.4
+2026-03-26,Lockers,Greenwich,Excellent,Storage,8,964.0,140.0,196.6,2025-26,False,120.5,17.5,24.575
+2025-09-02,Wardrobe,Greenwich,Good,Storage,1,151.0,25.0,55.64,2025-26,True,151.0,25.0,55.64
+2025-09-02,Bookcase ,Greenwich,Good,Storage,1,151.0,12.5,48.6,2025-26,False,151.0,12.5,48.6
+2025-09-02,Open day stand (poster holder),Greenwich,Good,Storage,3,151.0,25.0,55.64,2025-26,False,50.333333333333336,8.333333333333334,18.546666666666667
+2025-09-02,Filing Cabinet,Greenwich,Fair,Storage,1,100.0,40.0,48.0,2025-26,False,100.0,40.0,48.0
+2025-09-02,Filing Cabinet,Greenwich,Good,Storage,1,100.0,40.0,48.0,2025-26,True,100.0,40.0,48.0
+2025-09-02,Filing Cabinet,Greenwich,Good,Storage,2,100.0,40.0,48.0,2025-26,True,50.0,20.0,24.0
+2025-09-02,Wardrobe,Greenwich,Good,Storage,2,151.0,25.0,55.64,2025-26,True,75.5,12.5,27.82
+2025-09-02,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2025-26,True,121.0,27.0,37.3
+2025-09-02,Pedestal,Greenwich,Good,Storage,1,121.0,27.0,37.3,2025-26,False,121.0,27.0,37.3
+2025-09-02,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2025-26,True,121.0,27.0,37.3
+2025-09-02,Desk,Greenwich,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2025-09-02,Filing Cabinet,Greenwich,Excellent,Storage,3,100.0,40.0,48.0,2025-26,True,33.333333333333336,13.333333333333334,16.0
+2025-09-02,Table,Greenwich,Excellent,Office,1,111.0,25.0,46.75,2025-26,True,111.0,25.0,46.75
+2025-09-02,Chair,Greenwich,Excellent,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2025-09-02,Locker,Greenwich,Good,Storage,1,151.0,25.0,55.64,2025-26,False,151.0,25.0,55.64
+2025-09-02,Desk Divider,Greenwich,Good,Table,4,50.0,16.5,48.0,2025-26,True,12.5,4.125,12.0
+2025-09-02,Desk Divider,Greenwich,Good,Office,5,50.0,16.5,48.0,2025-26,True,10.0,3.3,9.6
+2025-09-02,Desk Divider,Greenwich,Good,Office,2,50.0,16.5,48.0,2025-26,True,25.0,8.25,24.0
+2025-09-02,Filing Cabinet,Greenwich,Good,Storage,1,100.0,40.0,48.0,2025-26,True,100.0,40.0,48.0
+2025-09-02,Filing Cabinet,Greenwich,Good,Storage,1,100.0,40.0,48.0,2025-26,True,100.0,40.0,48.0
+2025-09-02,Letterholder,Greenwich,Excellent,Storage,1,151.0,25.0,55.64,2025-26,False,151.0,25.0,55.64
+2025-09-02,Chair,Greenwich,Excellent,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2025-09-02,Bar Stool,Greenwich,Excellent,Seating,1,151.0,25.0,55.64,2025-26,False,151.0,25.0,55.64
+2025-09-02,Chair,Greenwich,Excellent,Seating,2,178.0,24.0,62.4,2025-26,True,89.0,12.0,31.2
+2025-09-02,Chair,Greenwich,Good,Seating,4,178.0,24.0,62.4,2025-26,True,44.5,6.0,15.6
+2025-09-02,Chair,Greenwich,Excellent,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2025-09-02,Chair,Greenwich,Excellent,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2025-09-02,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,55.64,2025-26,True,117.0,19.0,55.64
+2025-09-02,Filing Cabinet,Greenwich,Good,Storage,2,100.0,40.0,48.0,2025-26,True,50.0,20.0,24.0
+2025-09-02,Filing Cabinet,Greenwich,Good,Storage,1,100.0,40.0,48.0,2025-26,True,100.0,40.0,48.0
+2025-09-02,Noticeboard,Greenwich,Good,Office,2,100.0,1.0,48.0,2025-26,False,50.0,0.5,24.0
+2025-09-02,Cabinet,Greenwich,Good,Storage,2,176.045,37.0,63.0,2025-26,True,88.0225,18.5,31.5
+2025-09-02,Filing Cabinet,Greenwich,Excellent,Storage,1,100.0,40.0,48.0,2025-26,True,100.0,40.0,48.0
+2025-09-02,Chair,Greenwich,Excellent,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2025-09-02,Filing Cabinet,Greenwich,Excellent,Storage,1,100.0,40.0,48.0,2025-26,True,100.0,40.0,48.0
+2025-09-02,Cabinet,Greenwich,Good,Storage,1,176.045,37.0,63.0,2025-26,True,176.045,37.0,63.0
+2025-09-02,Operator Chair,Greenwich,Excellent,Seating,1,117.0,19.0,55.64,2025-26,True,117.0,19.0,55.64
+2025-09-02,Filing Cabinet,Greenwich,Excellent,Storage,1,100.0,40.0,48.0,2025-26,True,100.0,40.0,48.0
+2025-09-02,Cupboard,Greenwich,Excellent,Storage,1,220.855,46.0,69.55,2025-26,False,220.855,46.0,69.55
+2025-09-02,Pedestal ,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2025-26,False,121.0,27.0,37.3
+2025-09-02,Filing Cabinet,Greenwich,Excellent,Storage,1,100.0,40.0,48.0,2025-26,True,100.0,40.0,48.0
+2025-09-02,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2025-26,True,121.0,27.0,37.3
+2025-09-02,Filing Cabinet,Greenwich,Excellent,Storage,1,100.0,40.0,48.0,2025-26,True,100.0,40.0,48.0
+2025-09-02,Chair,Greenwich,Excellent,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2025-09-02,Desk,Greenwich,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2025-09-02,table,Greenwich,Excellent,Table,6,171.69,25.0,52.9,2025-26,True,28.615,4.166666666666667,8.816666666666666
+2025-09-02,table,Greenwich,Excellent,Table,1,171.69,25.0,52.9,2025-26,True,171.69,25.0,52.9
+2025-09-02,Chair,Greenwich,Good,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2025-09-02,chair,Greenwich,Good,Seating,1,160.355,15.5,49.37,2025-26,False,160.355,15.5,49.37
+2025-09-02,Cupboard,Greenwich,Good,Storage,1,220.855,46.0,69.55,2025-26,False,220.855,46.0,69.55
+2025-09-02,chair,Greenwich,Fair,Seating,2,160.355,15.5,49.37,2025-26,False,80.1775,7.75,24.685
+2025-09-02,Chair,Greenwich,Excellent,Seating,8,178.0,24.0,62.4,2025-26,True,22.25,3.0,7.8
+2025-09-02,Table,Greenwich,Excellent,Office,1,111.0,25.0,46.75,2025-26,True,111.0,25.0,46.75
+2025-09-02,Chair,Greenwich,Good,Seating,4,178.0,24.0,62.4,2025-26,True,44.5,6.0,15.6
+2025-09-02,Chair,Greenwich,Excellent,Seating,2,178.0,24.0,62.4,2025-26,True,89.0,12.0,31.2
+2025-09-02,Cabinet,Greenwich,Excellent,Storage,4,176.045,37.0,63.0,2025-26,True,44.01125,9.25,15.75
+2025-09-02,Pedestal,Greenwich,Excellent,Office,2,121.0,27.0,37.3,2025-26,True,60.5,13.5,18.65
+2025-09-02,Operator Chair,Greenwich,Fair,Seating,1,117.0,19.0,55.64,2025-26,False,117.0,19.0,55.64
+2025-09-02,Operator Chair,Greenwich,Good,Seating,3,117.0,19.0,55.64,2025-26,True,39.0,6.333333333333333,18.546666666666667
+2025-09-02,Table,Greenwich,Fair,Office,1,111.0,25.0,46.75,2025-26,False,111.0,25.0,46.75
+2025-09-02,Chair,Greenwich,Good,Seating,12,178.0,24.0,62.4,2025-26,True,14.833333333333334,2.0,5.2
+2025-09-02,Table,Greenwich,Excellent,Table,1,111.0,25.0,46.75,2025-26,True,111.0,25.0,46.75
+2025-09-02,Table,Greenwich,Good,Table,3,111.0,25.0,46.75,2025-26,False,37.0,8.333333333333334,15.583333333333334
+2024-07-22,Pedestal,Greenwich,Excellent,Storage,2,121.0,27.0,37.3,2023-24,True,60.5,13.5,18.65
+2025-01-10,Cabinet,Greenwich,Excellent,Storage,2,176.045,37.0,63.0,2024-25,True,88.0225,18.5,31.5
+2023-09-26,Chair,Avery Hill,Excellent,Seating,2,178.0,24.0,62.4,2023-24,True,89.0,12.0,31.2
+2023-09-26,Chair,Avery Hill,Excellent,Seating,3,178.0,24.0,62.4,2023-24,True,59.333333333333336,8.0,20.8
+2023-09-26,Chair,Avery Hill,Excellent,Seating,4,178.0,24.0,62.4,2023-24,True,44.5,6.0,15.6
+2023-09-26,Chair,Avery Hill,Excellent,Seating,4,178.0,24.0,62.4,2023-24,True,44.5,6.0,15.6
+2023-09-26,Chair,Avery Hill,Excellent,Seating,5,178.0,24.0,62.4,2023-24,True,35.6,4.8,12.48
+2023-09-26,Chair,Avery Hill,Excellent,Seating,6,178.0,24.0,62.4,2023-24,True,29.666666666666668,4.0,10.4
+2023-09-26,Chair,Avery Hill,Excellent,Seating,3,178.0,24.0,62.4,2023-24,True,59.333333333333336,8.0,20.8
+2023-09-26,Chair,Avery Hill,Excellent,Seating,4,178.0,24.0,62.4,2023-24,True,44.5,6.0,15.6
+2023-09-26,Table,Avery Hill,Excellent,Office,4,111.0,25.0,46.75,2023-24,True,27.75,6.25,11.6875
+2023-09-26,Desk,Avery Hill,Excellent,Office,3,185.845,30.0,64.5,2023-24,True,61.94833333333333,10.0,21.5
+2023-09-26,Desk,Avery Hill,Excellent,Office,1,185.845,30.0,64.5,2023-24,True,185.845,30.0,64.5
+2023-09-26,Table,Avery Hill,Excellent,Table,2,111.0,25.0,46.75,2023-24,True,55.5,12.5,23.375
+2023-09-26,Desk,Avery Hill,Excellent,Office,1,185.845,30.0,64.5,2023-24,True,185.845,30.0,64.5
+2023-09-26,Cupboard,Avery Hill,Excellent,Storage,1,220.855,46.0,69.55,2023-24,False,220.855,46.0,69.55
+2023-09-26,NoticeBoard,Avery Hill,Excellent,Office,3,200.0,2.0,96.0,2023-24,False,66.66666666666667,0.6666666666666666,32.0
+2023-09-26,Whiteboard,Avery Hill,Excellent,Office,1,136.0,12.0,65.28,2023-24,False,136.0,12.0,65.28
+2024-03-07,Coffee Table,Avery Hill,Excellent,Table,2,110.0,10.8,34.0,2023-24,True,55.0,5.4,17.0
+2024-03-07,Table,Avery Hill,Excellent,Table,1,111.0,25.0,46.75,2023-24,True,111.0,25.0,46.75
+2024-03-07,Pigeon Hole Unit,Avery Hill,Excellent,Storage,1,100.0,21.0,52.0,2023-24,False,100.0,21.0,52.0
+2026-03-16,Desk,Avery Hill,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2026-03-16,Desk,Avery Hill,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2026-03-16,Chair,Avery Hill,Excellent,Seating,10,178.0,24.0,62.4,2025-26,True,17.8,2.4,6.24
+2026-03-16,Chair,Avery Hill,Excellent,Seating,4,178.0,24.0,62.4,2025-26,True,44.5,6.0,15.6
+2026-03-16,Chair,Avery Hill,Excellent,Seating,7,178.0,24.0,62.4,2025-26,True,25.428571428571427,3.4285714285714284,8.914285714285715
+2026-03-16,Chair,Avery Hill,Excellent,Seating,6,178.0,24.0,62.4,2025-26,True,29.666666666666668,4.0,10.4
+2026-03-16,Chair,Avery Hill,Excellent,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2026-03-16,Chair,Avery Hill,Excellent,Seating,2,178.0,24.0,62.4,2025-26,True,89.0,12.0,31.2
+2026-03-16,Chair,Avery Hill,Excellent,Seating,11,178.0,24.0,62.4,2025-26,True,16.181818181818183,2.1818181818181817,5.672727272727273
+2026-03-16,Operator Chair,Avery Hill,Excellent,Seating,6,117.0,19.0,55.64,2025-26,True,19.5,3.1666666666666665,9.273333333333333
+2026-03-16,Desk,Avery Hill,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2026-03-16,Table,Avery Hill,Excellent,Table,2,111.0,25.0,46.75,2025-26,True,55.5,12.5,23.375
+2025-09-08,Chair,Greenwich,Excellent,Seating,2,178.0,24.0,62.4,2025-26,True,89.0,12.0,31.2
+2025-10-28,Chair,Greenwich,Excellent,Seating,3,178.0,24.0,62.4,2025-26,True,59.333333333333336,8.0,20.8
+2025-10-28,Chair,Greenwich,Excellent,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2025-10-28,Desk,Greenwich,Excellent,Office,3,185.845,30.0,64.5,2025-26,True,61.94833333333333,10.0,21.5
+2025-09-02,Chair,Greenwich,Excellent,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2025-11-27,Tambour Unit,Greenwich,Excellent,Storage,1,100.0,70.0,52.0,2025-26,True,100.0,70.0,52.0
+2025-11-27,Cabinet,Greenwich,Good,Storage,1,176.045,37.0,63.0,2025-26,True,176.045,37.0,63.0
+2025-11-27,Cupboard,Medway,Good,Storage,1,220.855,46.0,69.55,2025-26,False,220.855,46.0,69.55
+2025-11-27,Chair,Greenwich,Excellent,Seating,4,178.0,24.0,62.4,2025-26,True,44.5,6.0,15.6
+2025-11-27,Chair,Greenwich,Good,Seating,5,178.0,24.0,62.4,2025-26,True,35.6,4.8,12.48
+2026-03-16,Desk,Avery Hill,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2026-03-16,Desk,Avery Hill,Excellent,Office,3,185.845,30.0,64.5,2025-26,True,61.94833333333333,10.0,21.5
+2026-03-16,Bookcase ,Avery Hill,Excellent,Storage,1,151.0,12.5,48.6,2025-26,False,151.0,12.5,48.6
+2026-03-16,Table,Avery Hill,Excellent,Table,3,111.0,25.0,46.75,2025-26,True,37.0,8.333333333333334,15.583333333333334
+2026-03-16,Operator Chair,Avery Hill,Good,Seating,3,117.0,19.0,55.64,2025-26,True,39.0,6.333333333333333,18.546666666666667
+2026-03-16,Operator Chair,Avery Hill,Excellent,Seating,1,117.0,19.0,55.64,2025-26,True,117.0,19.0,55.64
+2026-03-16,Desk,Avery Hill,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2026-03-16,Desk,Avery Hill,Good,Office,5,185.845,30.0,64.5,2025-26,False,37.169,6.0,12.9
+2026-03-16,Operator Chair,Avery Hill,Good,Seating,1,117.0,19.0,55.64,2025-26,True,117.0,19.0,55.64
+2026-03-16,Coffee Table,Avery Hill,Fair,Table,2,110.0,10.8,34.0,2025-26,False,55.0,5.4,17.0
+2026-03-16,Pedestal,Avery Hill,Excellent,Storage,2,121.0,27.0,37.3,2025-26,True,60.5,13.5,18.65
+2026-03-16,Pedestal,Avery Hill,Excellent,Storage,1,121.0,27.0,37.3,2025-26,True,121.0,27.0,37.3
+2026-03-16,Pedestal,Avery Hill,Excellent,Storage,1,121.0,27.0,37.3,2025-26,True,121.0,27.0,37.3
+2026-03-16,Pedestal,Avery Hill,Excellent,Storage,1,121.0,27.0,37.3,2025-26,True,121.0,27.0,37.3
+2026-03-16,Pedestal,Avery Hill,Excellent,Storage,1,121.0,27.0,37.3,2025-26,True,121.0,27.0,37.3
+2026-03-16,Pedestal,Avery Hill,Excellent,Storage,1,121.0,27.0,37.3,2025-26,True,121.0,27.0,37.3
+2026-03-16,Pedestal,Avery Hill,Excellent,Storage,2,121.0,27.0,37.3,2025-26,True,60.5,13.5,18.65
+2026-03-16,Pedestal,Avery Hill,Excellent,Storage,1,121.0,27.0,37.3,2025-26,True,121.0,27.0,37.3
+2026-03-16,Desk,Avery Hill,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2026-03-16,Chair,Avery Hill,Excellent,Seating,2,178.0,24.0,62.4,2025-26,True,89.0,12.0,31.2
+2026-03-16,Chair,Avery Hill,Good,Seating,2,178.0,24.0,62.4,2025-26,True,89.0,12.0,31.2
+2026-03-16,Chair,Avery Hill,Excellent,Seating,2,178.0,24.0,62.4,2025-26,True,89.0,12.0,31.2
+2026-03-16,Chair,Avery Hill,Excellent,Seating,2,178.0,24.0,62.4,2025-26,True,89.0,12.0,31.2
+2026-03-16,Chair,Avery Hill,Excellent,Seating,1,178.0,24.0,62.4,2025-26,True,178.0,24.0,62.4
+2026-03-16,Operator Chair,Avery Hill,Good,Office,1,117.0,19.0,55.64,2025-26,True,117.0,19.0,55.64
+2026-03-16,Operator Chair,Avery Hill,Excellent,Office,1,117.0,19.0,55.64,2025-26,True,117.0,19.0,55.64
+2026-03-16,Coffee Table,Avery Hill,Excellent,Table,4,110.0,10.8,34.0,2025-26,True,27.5,2.7,8.5
+2026-03-16,Desk,Avery Hill,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2026-03-16,Table,Avery Hill,Excellent,Table,1,111.0,25.0,46.75,2025-26,True,111.0,25.0,46.75
+2026-03-16,pedestal,Avery Hill,Excellent,Storage,1,151.0,25.0,55.64,2025-26,False,151.0,25.0,55.64
+2026-04-02,Cupboard,Greenwich,Excellent,Storage,1,220.855,46.0,69.55,2025-26,False,220.855,46.0,69.55
+2026-04-14,Desk,Greenwich,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2026-04-14,Desk,Greenwich,Excellent,Office,1,185.845,30.0,64.5,2025-26,True,185.845,30.0,64.5
+2026-04-02,Tambour Unit,Greenwich,Excellent,Storage,4,100.0,70.0,52.0,2025-26,True,25.0,17.5,13.0
+2026-04-02,Desk,Greenwich,Excellent,Office,4,185.845,30.0,64.5,2025-26,True,46.46125,7.5,16.125
+2026-04-02,Desk,Greenwich,Excellent,Office,4,185.845,30.0,64.5,2025-26,True,46.46125,7.5,16.125
+2026-04-02,Pedestal,Greenwich,Excellent,Storage,1,121.0,27.0,37.3,2025-26,True,121.0,27.0,37.3
+2026-04-02,Pedestal,Greenwich,Good,Storage,1,121.0,27.0,37.3,2025-26,False,121.0,27.0,37.3

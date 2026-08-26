@@ -1,0 +1,70 @@
+category,item_type,unit_cost,unit_weight_kg,unit_co2_kg
+Seating,Armchair,236.79,15.0,72.93
+Seating,Chair ,89.71,19.55,27.63
+Seating,Bench Seat,149.3,26.25,45.98
+Seating,Sofa,248.6,45.0,76.57
+Seating,Sofa,363.83,68.0,112.06
+Seating,Operator Chair ,117.27,19.0,36.12
+Seating,Operator Chair ,97.6,17.0,30.06
+Seating,Operator Chair ,118.77,15.0,36.58
+Seating,Operator Chair ,96.25,13.0,29.64
+Seating,Chair ,31.53,4.0,9.71
+Seating,Chair ,17.63,4.0,5.43
+Seating,Chair ,54.9,7.0,16.91
+Seating,Chair ,76.0,7.35,23.41
+Seating,Chair ,88.57,8.0,27.28
+Seating,Chair ,335.0,45.0,103.18
+Seating,Chair ,82.83,7.22,25.51
+Seating,Chair ,130.75,13.98,40.27
+Seating,Chair ,78.07,5.25,24.05
+Seating,Chair ,320.0,15.0,98.56
+Seating,Chair ,69.6,7.0,21.44
+Seating,Cushion,20.29,0.97,6.25
+Office,Desk Divider,69.15,5.5,21.3
+Office,Flipchart stand,71.85,4.0,22.13
+Office,Whiteboards,41.38,2.88,12.74
+Office,Desk  ,213.13,22.0,65.65
+Office,Desk  ,125.79,25.0,38.74
+Office,Desk  ,160.64,30.0,49.48
+Office,Desk,298.5,30.0,91.94
+Office,Desk,209.43,25.0,64.5
+Office,Table,56.31,10.0,17.34
+Office,Table,171.69,25.0,52.88
+Office,Notice Board,58.83,2.88,18.12
+Table,Coffee Table ,110.4,10.82,34.0
+Table,Coffee Table ,80.12,13.07,24.68
+Table,Table,64.0,10.8,19.71
+Table,Table,111.25,15.85,34.26
+Storage,Pedestal,73.3,10.0,22.58
+Storage,Pedestal,81.3,17.0,25.04
+Storage,Pedestal,122.85,25.0,37.84
+Storage,Pedestal,163.39,34.0,50.32
+Storage,Pedestal,76.4,13.0,23.53
+Storage,Pedestal,100.0,20.0,30.8
+Storage,Pedestal,121.22,27.0,37.34
+Storage,Pedestal,165.09,38.0,50.85
+Storage,Filing cabinet,53.5,7.6,16.48
+Storage,Filing cabinet,69.6,14.0,21.44
+Storage,Filing cabinet,102.2,22.0,31.48
+Storage,Filing cabinet,152.09,30.0,46.84
+Storage,Filing cabinet,136.0,14.0,41.89
+Storage,Cupboard,100.0,22.0,30.8
+Storage,Cupboard,149.33,22.0,45.99
+Storage,Cupboard,220.71,45.0,67.98
+Storage,Cupboard,221.25,19.8,68.14
+Storage,Cupboard,246.5,47.0,75.92
+Storage,Cupboard,289.43,49.0,89.14
+Storage,Leaflet Rack,39.8,5.54,12.26
+Storage,Tambour,121.8,60.0,37.51
+Storage,Tambour,153.33,70.0,47.23
+Storage,Tambour,204.5,85.33,62.99
+Storage,Locker,85.0,18.0,26.18
+Storage,Locker,396.6,52.0,122.15
+Storage,Coat Rack,31.0,8.0,9.55
+Storage,Art Drawers,465.3,7.0,143.31
+Storage,Bookcase,102.33,11.87,31.52
+Storage,Bookcase,151.45,12.5,46.65
+Storage,Bookcase,164.22,12.95,50.58
+Storage,Bookcase,213.0,17.0,65.6
+Storage,Book Shelves,84.0,11.87,25.87
+Storage,Book Shelves,165.0,12.95,50.82

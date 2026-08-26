@@ -1,0 +1,62 @@
+Date,Item,Campus,Category,Quantity,Cost,Weight,CO2
+2021-11-11,Coffee table,Greenwich,Table,3,120.0,30.0,62.4
+2021-11-11,Static chair,Greenwich,Seating,1,20.0,7.0,10.4
+2021-11-11,Pedestal,Greenwich,Storage,2,100.0,28.0,52.0
+2021-11-11,Filing cabinet,Greenwich,Storage,1,100.0,30.0,52.0
+2021-11-11,Operator chair,Greenwich,Seating,6,642.0,72.0,333.84
+2021-09-01,Exam desks,Avery Hill,Table,50,2500.0,1000.0,1300.0
+2022-05-20,Operator chair,Avery Hill,Seating,6,642.0,72.0,333.84
+2022-05-20,Plastic chair,Avery Hill,Seating,2,20.0,10.0,10.4
+2022-05-20,Filing cabinet,Avery Hill,Storage,1,100.0,28.0,52.0
+2022-06-01,Operator chair,Greenwich,Seating,1,107.0,12.0,55.64
+2022-06-01,Desks,Greenwich,Office,5,500.0,150.0,156.0
+2022-06-01,Pedestal,Greenwich,Storage,10,500.0,70.0,130.0
+2022-11-16,Operator chair,Avery Hill,Seating,2,214.0,24.0,111.28
+2022-11-16,Desks,Avery Hill,Office,2,200.0,75.0,78.0
+2022-06-12,Operator chair,Avery Hill,Seating,5,535.0,60.0,278.2
+2022-06-12,Static chair,Avery Hill,Seating,10,200.0,70.0,104.0
+2022-06-12,Desks,Avery Hill,Office,2,200.0,60.0,62.4
+2023-04-19,Operator chairs,Greenwich,Seating,4,428.0,48.0,222.4
+2023-04-19,Cupboard,Greenwich,Storage,1,100.0,30.0,52.0
+2023-04-19,Desks,Greenwich,Office,1,575.0,20.0,226.0
+2023-06-01,Exam desks,Avery Hill,Table,50,2500.0,1000.0,1300.0
+2023-05-25,Operator chairs,Greenwich,Seating,10,1070.0,120.0,556.4
+2023-06-07,Desks,Greenwich,Office,2,200.0,50.0,31.0
+2023-06-07,Operator chairs,Greenwich,Office,3,321.0,36.0,166.92
+2023-06-20,Bookcase,Medway,Storage,3,402.0,63.0,208.65
+2023-06-20,Operator chairs,Medway,Seating,5,535.0,60.0,278.2
+2023-11-17,Operator chair,Greenwich,Seating,1,107.0,12.0,55.6
+2023-11-17,Pedestal,Greenwich,Storage,1,50.0,14.0,36.0
+2023-11-17,Large metal cabinet,Greenwich,Storage,1,100.0,70.0,52.0
+2024-02-29,Curved Desks,Avery Hill,Office,28,4200.0,1260.0,2184.0
+2024-02-29,Straight desk,Avery Hill,Office,1,100.0,30.0,52.0
+2024-03-01,Curved desk,Greenwich,Office,1,150.0,45.0,78.0
+2024-01-13,Straight desk,Medway,Office,1,100.0,30.0,52.0
+2024-01-13,Stacking chairs,Medway,Seating,10,200.0,70.0,104.0
+2024-01-13,Operator chair,Medway,Seating,32,3424.0,384.0,1780.48
+2024-01-13,Bench seating - 3 seater,Medway,Seating,2,200.0,20.0,92.0
+2024-01-03,Operator chair,Avery Hill,Seating,7,749.0,84.0,389.2
+2023-12-18,Operator chair,Greenwich,Seating,3,321.0,36.0,166.8
+2023-12-18,Pedestal,Greenwich,Storage,1,50.0,14.0,36.0
+2024-05-24,Operator chair,Medway,Seating,5,535.0,90.0,165.5
+2024-05-24,Stacking chairs,Medway,Seating,1,54.9,7.0,16.91
+2024-05-24,Sofa,Medway,Seating,3,497.2,90.0,153.14
+2024-05-24,Metal cabinets,Medway,Storage,4,986.0,188.0,303.69
+2024-07-10,Sofa,Avery Hill,Seating,1,363.83,68.0,112.06
+2024-06-25,Operator chair,Medway,Seating,9,963.0,162.0,297.9
+2024-06-25,Stacking chairs,Medway,Seating,5,274.5,35.0,84.55
+2024-11-05,Operator chair,Avery Hill,Seating,10,535.0,90.0,165.5
+2025-11-05,Static chair,Avery Hill,Seating,10,540.0,70.0,169.0
+2025-11-05,Sofa,Avery Hill,Seating,2,497.2,90.0,153.14
+2025-11-05,Armchairs,Avery Hill,Seating,10,2300.0,150.0,729.0
+2025-04-04,Filing cabinet,Medway,Storage,15,2280.0,450.0,702.0
+2025-04-04,Bookcase,Medway,Office,13,1963.0,162.5,605.8
+2025-04-04,Straight desk,Medway,Office,1,126.0,25.0,38.7
+2025-04-04,operator chair,Medway,Seating,7,749.0,126.0,231.7
+2025-04-04,Stacking chairs,Medway,Seating,4,220.0,28.0,79.6
+2025-06-20,Operator chair,Greenwich,Seating,18,1926.0,324.0,595.8
+2025-06-20,Operator chair,Greenwich,Seating,15,1605.0,270.0,496.5
+2025-07-30,Operator chair,Greenwich,Seating,12,1284.0,216.0,397.2
+2025-10-28,Operator chair,Greenwich,Seating,18,1926.0,324.0,595.8
+2026-02-02,Operator chair,Medway,Seating,15,1605.0,270.0,496.5
+2026-03-25,Operator chair,Avery Hill,Seating,15,1605.0,270.0,496.5
